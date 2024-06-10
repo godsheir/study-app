@@ -227,7 +227,7 @@ Epistemología
 Axiología
 Ideología.
 Ciencia y tecnología.
-`,"#9FC9CC",""],["Relación entre conocimiento objetivo e ideología",`En las ciencias,  las ideologías no pueden excluírse del proceso de investigación y  del quehacer científico ya que en ellos está presente la relación de la persona, objeto de conocimiento. 
+`,"#9FC9CC",""],["Relación entre conocimiento objetivo e ideología",`No pueden excluírse del proceso de investigación y  del quehacer científico ya que en ellos está presente la relación de la persona, objeto de conocimiento. 
 
 La actividad del investigador se ubica en un contexto social determinado y responde a un interés de clase que pueda ser la de él o la de otra clase social. 
 `,"#ae9de2",""],["Ciencia básica","Es enriquecer el conocimiento humano (interés puramente cognitivo). Puede ser teórica o experimental.","#479E99",""],["Ciencia aplicada",`Se apoya en conocimientos desarrollados en investigaciones básicas y en consecuencia, en el método científico. 
@@ -250,14 +250,14 @@ Otros identifican la una con la otra.`,"#AB8281",""],["Entidades concretas ","Ej
 `,"#35D0D3",""],["La clínica humanista","Se trabaja con los sentimientos y con cuestiones de auto-estima y  de realización personal, además; de necesidades satisfechas y no satisfechas y auto-actualización.","#64e887",""],["La clínica gestalt",`Hace un abordaje desde la personalidad y el desarrollo de la misma.
 
 Se enfoca más en los procesos que en los contenidos; pone mas énfasis sobre lo que está sucediendo, lo que está pensado y se esta sintiendo en el momento; esto por encima de lo que fue, pudo haber sido, podría ser o debería estar sucediendo.
-`,"#9952DE",""],["La confianza del paciente ","Es necesaria. Los pacientes comienzan con diversos grados. Es facilitada por el interés del terapeuta en ayudar al paciente, la capacidad de hacer preguntas inteligentes y el conocimiento acerca de la categoría diagnóstica del paciente.","#7dd6de",""],["ABORDAJE INDIVIDUAL:",`Entre sus ventajas se mencionan la posibilidad  de ajuste de los procedimientos a las características de la persona y del problema,  mejor aprovechamiento del vinculo para el cambio.
+`,"#9952DE",""],["La confianza del paciente ","Es necesaria. Los pacientes comienzan con diversos grados. Es facilitada por el interés del terapeuta en ayudar al paciente, la capacidad de hacer preguntas inteligentes y el conocimiento acerca de la categoría diagnóstica del paciente.","#7dd6de",""],["ABORDAJE INDIVIDUAL",`Entre sus ventajas se mencionan la posibilidad  de ajuste de los procedimientos a las características de la persona y del problema,  mejor aprovechamiento del vinculo para el cambio.
 
 
 `,"#EAB6BE",""],["ABORDAJE DE PAREJA",`Útil para tratar dificultades de vinculo, o  para tratar problemas psicopatológicos de uno de los miembros.
-Ventajas: económico, búsqueda de soluciones de ambos miembros de la pareja, fortalecimiento del vinculo de pareja.`,"#e494e6",""],["ABORDAJE  FAMILIAR",`Participan en las sesiones distintos miembros para resolver asuntos que tiene que ver con la forma disfuncional de relacionarse entre ellos y que genera algún trastorno en alguno de sus miembros.
+Ventajas: económico, búsqueda de soluciones de ambos miembros, fortalecimiento del vinculo.`,"#e494e6",""],["ABORDAJE  FAMILIAR",`Participan en las sesiones distintos miembros para resolver asuntos que tiene que ver con la forma disfuncional de relacionarse entre ellos y que genera algún trastorno en alguno de sus miembros.
 
 A veces derivado por otro terapeuta o médico de donde se reconoce los conflictos propios de la comunicación. 
-`,"#dbd476",""],["ABORDAJE GRUPAL",`Este estilo   de tres horas de duración con una frecuencia quincenal, por ser grupal es económica sin que por ello sea menos eficaz. 
+`,"#dbd476",""],["ABORDAJE GRUPAL",`Este estilo de tres horas de duración con una frecuencia quincenal, por ser grupal es económica sin que por ello sea menos eficaz. 
 
 El trabajo es muy profundo e intenso en un ambiente de contención afectiva.
 
