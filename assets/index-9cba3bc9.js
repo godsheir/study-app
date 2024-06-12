@@ -359,7 +359,7 @@ Por eso se organizan en estructuras de 3 denominados tripletes dando lugar hasta
 
 También conocidos como ganglios basales juegan un papel crucial en la regulación del movimiento, la coordinación motora y varias funciones cognitivas y emocionales. 
 
-Están compuestos por varias subestructuras, entre las que se incluyen: NUCLEO CAUDADO, PUTAMEN, GLOBO PALIDO, SUSTANCIA NEGRA, NUCLEO SUBTALAMICO, NUCLEO ACCUMBENS.`,"#816db0",""],["El arquicórtex",`Es una de las áreas más antiguas de la corteza cerebral en términos evolutivos. Se encuentra principalmente en el sistema límbico y está involucrado en funciones esenciales como la memoria y la emoción. La estructura nuclear más representativa del arquicórtex es el hipocampo.
+Están compuestos por varias subestructuras, entre las que se incluyen: NUCLEO CAUDADO, PUTAMEN, GLOBO PALIDO, SUSTANCIA NEGRA, NUCLEO SUBTALAMICO, NUCLEO ACCUMBENS.`,"#816db0",""],["El arquicórtex",`Es una de las áreas más antiguas de la corteza cerebral en términos evolutivos. Se encuentra principalmente en el sistema límbico y está involucrado en funciones esenciales como la memoria y la emoción. Su estructura nuclear más representativa es el hipocampo.
 `,"#91C450",""],["Rinencefalo",`También conocido como "cerebro olfativo," es una parte del cerebro que está 
 principalmente relacionada con el sentido del olfato.
 
@@ -377,7 +377,7 @@ Se basa en la idea de que la mente y el comportamiento pueden ser Comprendidos m
 
 Esta concepción se basa en la lateralización cerebral, un fenómeno que sugiere que algunas funciones cognitivas están dominadas por uno de los dos hemisferios del cerebro.`,"#82b0d4",""],["Hemisferio Izquierdo",`Tradicionalmente se asocia con funciones relacionadas con el lenguaje, el razonamiento lógico, la matemática, la escritura y el análisis secuencial. 
 
-Se considera el hemisferio dominante en la mayoría de las personas para tareas lingüísticas y analíticas.`,"#3C3A96",""],["Hemisferio Derecho",`Se relaciona con la percepción espacial, el reconocimiento de caras, la música, las habilidades artísticas, la intuición y el procesamiento de información visual y espacial. 
+Se considera el hemisferio dominante en la mayoría de las personas para tareas lingüísticas y analíticas.`,"#7c7bc6",""],["Hemisferio Derecho",`Se relaciona con la percepción espacial, el reconocimiento de caras, la música, las habilidades artísticas, la intuición y el procesamiento de información visual y espacial. 
 
 También está involucrado en la interpretación del contexto y las emociones en la comunicación.`,"#6ED86A",""],["Tronco Encefálico ",`Es una estructura fundamental del sistema nervioso central que conecta el cerebro con la médula espinal. 
 
