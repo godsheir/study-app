@@ -272,7 +272,25 @@ Las técnicas utilizadas son entre otras: El Psicodrama  - La Terapia familiar 
 • Registros psicofisiológicos.
 • Juego de roles y otros procedimientos de apoyo a la observación de las conductas.
 • Encuestas.
-`,"#f1b87e",""]],Xp=[["Materia",`Es la entidad física que compone el universo que conocemos. 
+`,"#f1b87e",""]],Xp=[["Psico neuro endocrinología",`Es un campo interdisciplinario que estudia las interacciones entre el sistema nervioso, endocrino y el comportamiento humano.
+Examina como las hormonas, los neurotransmisores y el sistema nervioso central influyen en el comportamiento, así como el comportamiento las experiencias pueden 
+modular la actividad hormonal y neuronal. 
+
+Proporcióna información importante sobre los mecanismos biológicos subyacentes a los trastornos psiquiátricos y pueden ayudar en el desarrollo de tratamientos farmacológicos y terapias psicológicas.`,"#ECB3F1",""],["La psiquis",`Se utiliza este termino para referirse al conjunto de procesos mentales y afectos emocionales y cognitivos de una persona. 
+Es la dimensión integral e individual de la experiencia humana, que incluye pensamientos, emociones, percepciones, deseos y la conciencia misma. `,"#EEDBCC",""],["El idealismo ","(Pitágoras, Platón, Aristóteles): La idea como principio del ser y el conocer.","#4970FA",""],["El mecanicismo ",`(Tales, Demócrito, Hipócrates): La única realidad verdadera es la materia
+`,"#A99DB1",""],["G.W.F. Hegel ","En su obra “Fenomenología del espíritu” 1808, relata como a partir de una actividad fisiológica, el sueño, se concibe la existencia del alma.","#84d2b0",""],["Descartes ","Esboza y provee  la primera explicación del interaccionismo mente/cuerpo, el alma es racional, una entidad distinta del cuerpo y puesta en contacto con el mismo por la glándula pineal.","#A1DD3F",""],["MONISMOS IDEALISTAS",`Animismo (Platón, Aristóteles, Agustín, Tomás, Freud,Sperry)
+Fenomenismo (Berkeley, Fichte, Hegel, Chardin)
+Monismo neutral (Spinoza, James, Russell, Carnap, Schlick, Pribram)
+Son incompatibles con la ciencia. 
+
+Les falta la entidad concreta o el objeto de la ciencia.
+`,"#8a5ff7",""],["DUALISMOS ",`Epifenomenalismo (Cabanis, Huxley, Vogt, Ayer)
+Paralelismo (Leibniz, Jackson)
+Autonomismo 	(Wittgenstein)
+Interaccionismo (Descartes, Penfield, Eccles,  Poper)
+
+Se postulan dos sustancias independientes
+Se basa en creencias o conceptos de sentido común`,"#958eb4",""],["LA RELACIÓN MENTE-CEREBRO","Se encuentra en el centro de todos los problemas metafísicos, cuya real comprensión puede tener una vasta influencia sobre todos los fines y valores últimos de la especie humana.","#c45aa9",""],["Materia",`Es la entidad física que compone el universo que conocemos. 
 
 Cualquier campo o discontinuidad, fenomenológicamente perceptible que se propaga a través del espacio-tiempo a una velocidad igual o inferior a la de la luz. 
 
@@ -307,72 +325,7 @@ Información Conativa
 -Permite moldear la estructura del cerebro y reorganizar la información psíquica .
 `,"#eff0bc",""],["Tipos de información social",`Tradicional
 Academica
-Valorativa`,"#f2c8c0",""],["Genetica","Es el campo de la ciencia que estudia la herencia y la variabilidad existente entre seres vivos.","#9cb7c4",""],["Gen","Es una secuencia de nucleótidos del ADN que se convierte en la información para sintetizar proteínas, para regular los diferentes mecanismos de la expresión génica y para codificar la secuencia de nucleótidos que conformarán los diferentes ácidos ribonucleicos.","#8182ef",""],["Aminoacídos","Están constituidos por un átomo de Hidrógeno, un grupo amino (NH2), un grupo carboxilo (COOH) y una cadena lateral o grupo R (R significa “Resto”), siendo éste último grupo el que determina la estructura y la función de la proteína.","#6ccdda",""],["Proteínas ",`Son moléculas complejas cuya actividad es fundamentalmente
-estructural y enzimática.
-Pueden considerarse grandes polímeros construidos a partir de aminoácidos.`,"#63cab3",""],["Los nucleótidos",`Son las moléculas que constituyen los ácidos nucleicos.
-Son moléculas formadas por tres subunidades claramente diferenciadas:
-1. un grupo fosfato
-2. un azúcar de 5 carbonos (pentósido)
-3. una base nitrogenada`,"#c86ce4",""],["ADN",`La estructura de esta molécula esta compuesta por dos cadenas de nucleótidos de adenina (A), guanina (G), citosina (C) y timina (T), unidas una sobre la otra, adquiriendo forma de doble hélice. Unidos a través de un enlace denominado “fosfodiester”.
-
-Es la molécula del organismo encargada de codificar información genética.
-
-Las bases nitrogenadas se aparean según el principio de complementariedad, la adenina se aparea sólo con la timina y, la citosina únicamente con la guanina`,"#a291d9",""],["ARN (Ácido ribonucleico)",`Esta compuesto por la unión de nucleótidos formando una larga cadena. 
-Cada nucleótido que lo conforma está compuesto por un grupo fosfato, una pentosa (la ribosa) y las bases nitrogenadas: guanina, citosina, adenina y uracilo.
-
-Tiene como función principal la de servir como intermediario de la información del ADN en forma de genes y la proteína final codificada por esos genes.`,"#70b2f0",""],["ARN mensajero (ARNm) ",`Su principal función es transmitir la información que se encuentra en el ADN y transportarla a los ribosomas, para que se pueda poner en marcha la síntesis de proteínas durante el proceso de
-traducción.`,"#DEB6AA",""],["El idealismo ","(Pitágoras, Platón, Aristóteles): La idea como principio del ser y el conocer.","#4970FA",""],["El mecanicismo ",`(Tales, Demócrito, Hipócrates): La única realidad verdadera es la materia
-`,"#A99DB1",""],["Descartes ","Esboza y provee  la primera explicación del interaccionismo mente/cuerpo, el alma es racional, una entidad distinta del cuerpo y puesta en contacto con el mismo por la glándula pineal.","#A1DD3F",""],["MONISMOS IDEALISTAS",`Animismo (Platón, Aristóteles, Agustín, Tomás, Freud,Sperry)
-Fenomenismo (Berkeley, Fichte, Hegel, Chardin)
-Monismo neutral (Spinoza, James, Russell, Carnap, Schlick, Pribram)
-Son incompatibles con la ciencia. 
-
-Les falta la entidad concreta o el objeto de la ciencia.
-`,"#8a5ff7",""],["DUALISMOS ",`Epifenomenalismo (Cabanis, Huxley, Vogt, Ayer)
-Paralelismo (Leibniz, Jackson)
-Autonomismo 	(Wittgenstein)
-Interaccionismo (Descartes, Penfield, Eccles,  Poper)
-
-Se postulan dos sustancias independientes
-Se basa en creencias o conceptos de sentido común`,"#958eb4",""],["LA RELACIÓN MENTE-CEREBRO","Se encuentra en el centro de todos los problemas metafísicos, cuya real comprensión puede tener una vasta influencia sobre todos los fines y valores últimos de la especie humana.","#c45aa9",""],["El paleocórtex ",`Es un tipo de tejido cortical primitivo y delgado. 
-
-Está compuesto por tres a cinco láminas corticales y tiene una estructura heterotípica.`,"#5dc7ee",""],["El neocórtex",`Es la estructura que en los seres humanos conforma la mayor parte de la corteza cerebral, concretamente el 90% de ella. 
-
-Se trata de la parte del cerebro de aparición más reciente a nivel filogenético.
-
-Tiene una estratificación en seis capas y una estructura Homotipica.`,"#65e2e6",""],["Neocortex Tripartito",`Afectivo
-Cognitivo
-Conativo`,"#EF88AD",""],["Sistema Psíquico Primario",`Sistema que codifica y almacena información psíquica epigenética en las REDES NEURALES DEL PALEOCORTEX cerebral y organiza la actividad psíquica del nivel subconsciente (no consciente) que refleja el Aspecto físico, superficial y externo de la información
-`,"#eec08c",""],["Sistema Psíquico Social",`Sistema que codifica y almacena información
-social transcrita en las REDES NEOCORTICALES en
-La forma de información psíquica social que
-Organiza la actividad consciente, que refleja la
-Información de lo que subyace a la apariencia o sensación externa
-`,"#7179d0",""],["Sistemas Psíquicos Afectivo",`Neocortex supraorbitario y polo temporal que refleja lo que subyace a  la estructura y actividad físico-química de nuestro medio interno determinada por nuestro entorno
-`,"#82C740",""],["Sistema Psiquico Cognitivo","Neocortex parieto-temporo-occipitales, que refleja lo que subyace a la estructura y actividad fisico-química del entorno que nos rodea ","#9dbead",""],["Sistema Psiquico Conativo",`Neocortex frontal dorso-lateral que refleja la organización de nuestra sociedad
-`,"#b88f7f",""],["Reproducción Sexual","Solamente dos células están envueltas, Una es el espermatozoide del macho y la otra es el óvulo de la hembra.","#86e4d1",""],["El genoma ",`Varía de una persona a otra persona debido a que la combinación de alelos es diferente. De todas formas, resulta sorprendente la pequeña magnitud de dicha
-diferenciación.`,"#49CC8C",""],["Alelo ",`Es cada una de las alternativas de combinación de las bases que puede tener un mismo gen, lo que diferencian su secuencia y que modifican la actividad de ese gen.
-
-Usando el código genético con las 4 bases sólo podrían formar hasta 12 combinaciones.
-
-Por eso se organizan en estructuras de 3 denominados tripletes dando lugar hasta 64 combinaciones, suficientes para sintetizar los 20 aminoácidos escenciales que forman todas las proteínas del humano.`,"#9DC5E0",""],["Estrucura Subcortical (Nucleos de la base)",`Incluye varias estructuras importantes que se encuentran debajo de la corteza cerebral. 
-
-También conocidos como ganglios basales juegan un papel crucial en la regulación del movimiento, la coordinación motora y varias funciones cognitivas y emocionales. 
-
-Están compuestos por varias subestructuras, entre las que se incluyen: NUCLEO CAUDADO, PUTAMEN, GLOBO PALIDO, SUSTANCIA NEGRA, NUCLEO SUBTALAMICO, NUCLEO ACCUMBENS.`,"#816db0",""],["El arquicórtex",`Es una de las áreas más antiguas de la corteza cerebral en términos evolutivos. Se encuentra principalmente en el sistema límbico y está involucrado en funciones esenciales como la memoria y la emoción. Su estructura nuclear más representativa es el hipocampo.
-`,"#91C450",""],["Rinencefalo",`También conocido como "cerebro olfativo," es una parte del cerebro que está 
-principalmente relacionada con el sentido del olfato.
-
-El rinencéfalo se refiere a las estructuras del cerebro involucradas en la recepción y procesamiento de la información olfativa (olor). 
-
-Estas estructuras son esenciales no solo para la percepción de los 
-olores, sino también para diversas funciones relacionadas con la memoria y las emociones, ya que el olfato está íntimamente conectado con el sistema límbico.`,"#d6d97d",""],["La corteza cerebral",`Es la capa más externa del cerebro y es crucial para funciones cognitivas 
-complejas como la percepción sensorial, el pensamiento, el juicio y el control motor. `,"#bb9edc",""],["Psico neuro endocrinología",`Es un campo interdisciplinario que estudia las interacciones entre el sistema nervioso, endocrino y el comportamiento humano.
-Examina como las hormonas, los neurotransmisores y el sistema nervioso central influyen en el comportamiento, así como el comportamiento las experiencias pueden 
-modular la actividad hormonal y neuronal. 
-
-Proporcióna información importante sobre los mecanismos biológicos subyacentes a los trastornos psiquiátricos y pueden ayudar en el desarrollo de tratamientos farmacológicos y terapias psicológicas.`,"#ECB3F1",""],["La psiquis",`Se utiliza este termino para referirse al conjunto de procesos mentales y afectos emocionales y cognitivos de una persona. 
-Es la dimensión integral e individual de la experiencia humana, que incluye pensamientos, emociones, percepciones, deseos y la conciencia misma. `,"#EEDBCC",""],["G.W.F. Hegel ","En su obra “Fenomenología del espíritu” 1808, relata como a partir de una actividad fisiológica, el sueño, se concibe la existencia del alma.","#84d2b0",""],["Holismo","Campo unificado (Flourens, Lashley), argumenta que la experiencia consciente, los procesos cognitivos y el comportamiento no pueden ser explicados únicamente por la actividad de neuronas individuales o regiones específicas del cerebro","#F4DFEC",""],["Localizacionismo",`(Gall, Kleist) argumenta que diferentes partes de la corteza cerebral están especializadas en funciones específicas. 
+Valorativa`,"#f2c8c0",""],["Holismo","Campo unificado (Flourens, Lashley), argumenta que la experiencia consciente, los procesos cognitivos y el comportamiento no pueden ser explicados únicamente por la actividad de neuronas individuales o regiones específicas del cerebro","#F4DFEC",""],["Localizacionismo",`(Gall, Kleist) argumenta que diferentes partes de la corteza cerebral están especializadas en funciones específicas. 
 Se basa en la idea de que la mente y el comportamiento pueden ser Comprendidos mediante es estudio de la función de regiones cerebrales individuales.`,"#7BE169",""],["Concepción bipartita del cerebro ",`Se refiere a la idea de que el cerebro humano está dividido en dos hemisferios, el hemisferio izquierdo y el hemisferio derecho, cada uno de los cuales se encarga de diferentes funciones cognitivas y comportamentales. 
 
 Esta concepción se basa en la lateralización cerebral, un fenómeno que sugiere que algunas funciones cognitivas están dominadas por uno de los dos hemisferios del cerebro.`,"#82b0d4",""],["Hemisferio Izquierdo",`Tradicionalmente se asocia con funciones relacionadas con el lenguaje, el razonamiento lógico, la matemática, la escritura y el análisis secuencial. 
@@ -388,7 +341,54 @@ A pesar de su tamaño relativamente pequeño, juega un papel vital en la regulac
 homeostasis, es decir, el mantenimiento del equilibrio interno del cuerpo.`,"#65ced7",""],["Epitálamo ",`Es una pequeña región del diencéfalo, situada en el área posterior del tercer ventrículo del cerebro, por encima del tálamo. 
 Aunque es menos conocido que otras estructuras cerebrales, desempeña funciones importantes, particularmente en la regulación de los ritmos circadianos y en la conexión entre el sistema límbico y otras partes del cerebro.`,"#58D14F",""],["Tálamo ",`Es una estructura ovoide del diencéfalo que se encuentra en el centro del cerebro, justo por encima del hipotálamo. 
 
-Es una estación de relevo crucial para la transmisión de información sensorial y motora hacia la corteza cerebral, y también desempeña roles importantes en la regulación de la consciencia, el sueño y el estado de alerta.`,"#f09993",""],["ARN de transferencia (ARNt)","Se encuentra en el citoplasma de la célula. Su principal función es transportar aminoácidos específicos hasta los ribosomas para que se lleve a cabo la síntesis de las proteínas durante el proceso de traducción.","#d4a7a1",""],["ARN ribosómico (ARNr)",`Es el que constituye los ribosomas. Al estar asociado a las proteínas ribosómicas, genera una estructura que permite a los ribosomas 
+Es una estación de relevo crucial para la transmisión de información sensorial y motora hacia la corteza cerebral, y también desempeña roles importantes en la regulación de la consciencia, el sueño y el estado de alerta.`,"#f09993",""],["Sistema Psíquico Primario",`Sistema que codifica y almacena información psíquica epigenética en las REDES NEURALES DEL PALEOCORTEX cerebral y organiza la actividad psíquica del nivel subconsciente (no consciente) que refleja el Aspecto físico, superficial y externo de la información
+`,"#eec08c",""],["Sistema Psíquico Social",`Sistema que codifica y almacena información
+social transcrita en las REDES NEOCORTICALES en
+La forma de información psíquica social que
+Organiza la actividad consciente, que refleja la
+Información de lo que subyace a la apariencia o sensación externa
+`,"#7179d0",""],["Sistemas Psíquicos Afectivo",`Neocortex supraorbitario y polo temporal que refleja lo que subyace a  la estructura y actividad físico-química de nuestro medio interno determinada por nuestro entorno
+`,"#82C740",""],["Sistema Psiquico Cognitivo","Neocortex parieto-temporo-occipitales, que refleja lo que subyace a la estructura y actividad fisico-química del entorno que nos rodea ","#9dbead",""],["Sistema Psiquico Conativo",`Neocortex frontal dorso-lateral que refleja la organización de nuestra sociedad
+`,"#b88f7f",""],["El paleocórtex ",`Es un tipo de tejido cortical primitivo y delgado. 
+
+Está compuesto por tres a cinco láminas corticales y tiene una estructura heterotípica.`,"#5dc7ee",""],["El neocórtex",`Es la estructura que en los seres humanos conforma la mayor parte de la corteza cerebral, concretamente el 90% de ella. 
+
+Se trata de la parte del cerebro de aparición más reciente a nivel filogenético.
+
+Tiene una estratificación en seis capas y una estructura Homotipica.`,"#65e2e6",""],["Neocortex Tripartito",`Afectivo
+Cognitivo
+Conativo`,"#EF88AD",""],["Estrucura Subcortical (Nucleos de la base)",`Incluye varias estructuras importantes que se encuentran debajo de la corteza cerebral. 
+
+También conocidos como ganglios basales juegan un papel crucial en la regulación del movimiento, la coordinación motora y varias funciones cognitivas y emocionales. 
+
+Están compuestos por varias subestructuras, entre las que se incluyen: NUCLEO CAUDADO, PUTAMEN, GLOBO PALIDO, SUSTANCIA NEGRA, NUCLEO SUBTALAMICO, NUCLEO ACCUMBENS.`,"#816db0",""],["El arquicórtex",`Es una de las áreas más antiguas de la corteza cerebral en términos evolutivos. Se encuentra principalmente en el sistema límbico y está involucrado en funciones esenciales como la memoria y la emoción. Su estructura nuclear más representativa es el hipocampo.
+`,"#91C450",""],["Rinencefalo",`También conocido como "cerebro olfativo," es una parte del cerebro que está 
+principalmente relacionada con el sentido del olfato.
+
+El rinencéfalo se refiere a las estructuras del cerebro involucradas en la recepción y procesamiento de la información olfativa (olor). 
+
+Estas estructuras son esenciales no solo para la percepción de los 
+olores, sino también para diversas funciones relacionadas con la memoria y las emociones, ya que el olfato está íntimamente conectado con el sistema límbico.`,"#d6d97d",""],["La corteza cerebral",`Es la capa más externa del cerebro y es crucial para funciones cognitivas 
+complejas como la percepción sensorial, el pensamiento, el juicio y el control motor. `,"#bb9edc",""],["Genetica","Es el campo de la ciencia que estudia la herencia y la variabilidad existente entre seres vivos.","#9cb7c4",""],["Gen","Es una secuencia de nucleótidos del ADN que se convierte en la información para sintetizar proteínas, para regular los diferentes mecanismos de la expresión génica y para codificar la secuencia de nucleótidos que conformarán los diferentes ácidos ribonucleicos.","#8182ef",""],["Aminoacídos","Están constituidos por un átomo de Hidrógeno, un grupo amino (NH2), un grupo carboxilo (COOH) y una cadena lateral o grupo R (R significa “Resto”), siendo éste último grupo el que determina la estructura y la función de la proteína.","#6ccdda",""],["Proteínas ",`Son moléculas complejas cuya actividad es fundamentalmente
+estructural y enzimática.
+Pueden considerarse grandes polímeros construidos a partir de aminoácidos.`,"#63cab3",""],["Los nucleótidos",`Son las moléculas que constituyen los ácidos nucleicos.
+Son moléculas formadas por tres subunidades claramente diferenciadas:
+1. un grupo fosfato
+2. un azúcar de 5 carbonos (pentósido)
+3. una base nitrogenada`,"#c86ce4",""],["ADN",`La estructura de esta molécula esta compuesta por dos cadenas de nucleótidos de adenina (A), guanina (G), citosina (C) y timina (T), unidas una sobre la otra, adquiriendo forma de doble hélice. Unidos a través de un enlace denominado “fosfodiester”.
+
+Es la molécula del organismo encargada de codificar información genética.
+
+Las bases nitrogenadas se aparean según el principio de complementariedad, la adenina se aparea sólo con la timina y, la citosina únicamente con la guanina`,"#a291d9",""],["ARN (Ácido ribonucleico)",`Esta compuesto por la unión de nucleótidos formando una larga cadena. 
+Cada nucleótido que lo conforma está compuesto por un grupo fosfato, una pentosa (la ribosa) y las bases nitrogenadas: guanina, citosina, adenina y uracilo.
+
+Tiene como función principal la de servir como intermediario de la información del ADN en forma de genes y la proteína final codificada por esos genes.`,"#70b2f0",""],["ARN mensajero (ARNm) ",`Su principal función es transmitir la información que se encuentra en el ADN y transportarla a los ribosomas, para que se pueda poner en marcha la síntesis de proteínas durante el proceso de
+traducción.`,"#DEB6AA",""],["Reproducción Sexual","Solamente dos células están envueltas, Una es el espermatozoide del macho y la otra es el óvulo de la hembra.","#86e4d1",""],["El genoma ",`Varía de una persona a otra persona debido a que la combinación de alelos es diferente. De todas formas, resulta sorprendente la pequeña magnitud de dicha
+diferenciación.`,"#49CC8C",""],["Alelo ",`Es cada una de las alternativas de combinación de las bases que puede tener un mismo gen, lo que diferencian su secuencia y que modifican la actividad de ese gen.
+
+Usando el código genético con las 4 bases sólo podrían formar hasta 12 combinaciones.
+
+Por eso se organizan en estructuras de 3 denominados tripletes dando lugar hasta 64 combinaciones, suficientes para sintetizar los 20 aminoácidos escenciales que forman todas las proteínas del humano.`,"#9DC5E0",""],["ARN de transferencia (ARNt)","Se encuentra en el citoplasma de la célula. Su principal función es transportar aminoácidos específicos hasta los ribosomas para que se lleve a cabo la síntesis de las proteínas durante el proceso de traducción.","#d4a7a1",""],["ARN ribosómico (ARNr)",`Es el que constituye los ribosomas. Al estar asociado a las proteínas ribosómicas, genera una estructura que permite a los ribosomas 
 albergar al ARNm y al ARNt. 
 
 Al igual que el ARNt también presenta la peculiaridad de poseer dos niveles de estructura (primaria y secundaria) en su forma.`,"#7a92c2",""],["ARN nuclear (ARNn)","Se localiza en el núcleo de las células eucaritotas, y su función principal es ser el precursor de los distintos tipos de ARN.","#DDF92F",""],["Mitosis ","Tipo de división celular los cromosomas se han de duplicar y han de distribuirse correctamente para que las células hijas contengan una dotación diploide de cromosomas (2n).","#B253BF",""],["La meiosis",`Es un proceso de división celular en la que una célula diploide (2n) experimenta dos divisiones sucesivas, con la capacidad de generar cuatro células haploides (n). 
