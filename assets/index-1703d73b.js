@@ -518,7 +518,7 @@ La otra es preventiva, superficial y breve, requiere de menos especialización y
 • capacidad para experimentar y comunicar empatía.
 • capacidad de enfrentarse a los propios problemas y de pedir ayuda si fuera necesario.
 • capacidad de aprender de los propios errores y de cambiar si fuera necesario.
-• considerar en un término medio la propia importancia en relación con los demás.`,"#e189d5",""],["La desensibilizacion","Consiste en postergar la discusión de los sentimientos del ayudado, empezando por el contenido y proceder paulatinamente a tratar los sentimientos.","#84aee1",""],["Aceptacion incondicional en la ralaciond de ayuda",`Sentirse aceptado es una necesidad experimentada por todos en 
+• considerar en un término medio la propia importancia en relación con los demás.`,"#e189d5",""],["La desensibilizacion","Consiste en postergar la discusión de los sentimientos del ayudado, empezando por el contenido y proceder paulatinamente a tratar los sentimientos.","#84aee1",""],["Aceptacion incondicional en la ralacion de ayuda",`Sentirse aceptado es una necesidad experimentada por todos en 
 cualquier relación interpersonal profunda.`,"#ffa3c9",""],["Comunicar","Se refiere a un proceso de transmisión y recepción de señales sean estas ideas, mensajes, datos; mediante un código (un sistema de signos y reglas) que es común tanto para el emisor como para el receptor","#E1F12D",""],[" Atención física ",`• Mirar a la cara del otro directamente. Dice “estoy disponible para ti”. 
 
 • Mantener buen contacto ocular. 
