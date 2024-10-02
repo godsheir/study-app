@@ -438,7 +438,7 @@ Psíquicas:
 Representan relaciones espaciales que se elaboran desde los datos de la memoria en las redes del HCD`,"#96BEC8",""],["La informacion psiquica afectiva","Indica al cerebro el estado del medio interno, del organismo y como éste se siente en el entorno que lo  rodea.","#b07bc6",""],["Transcripcion",`Adquisición y Registro
 La información se transduce y queda inscrita por un periodo  de tiempo que dependerá del nivel de organización de la información.
 
-`,"#8f8cd4",""],["Coficacion",`Retención, Almacenamiento, Consolidación
+`,"#8f8cd4",""],["Codificacion",`Retención, Almacenamiento, Consolidación
 La información obtiene una configuración (representación) se integra y se retiene como parte de la red neural.`,"#AAFAB0",""],["Descodificacion",`Accesibilidad, Activación, Recuperación, Reproducción
 Reconstrucción de la información para su uso durante la: Percepción, imaginación, pensamiento, actuación, verbal o no.`,"#ABC954",""],["La memoria episódica",`“Memoria para experiencias personales y sus relaciones temporales”
 `,"#94E898",""],["La memoria semántica","Sistema para recibir, retener y transmitir información acerca del significado de las palabras, conceptos y clasificación de conceptos.","#68C6BA",""]],Jp=[["Caracteristicas principales de los test psicometricos",`Medida objetiva.
