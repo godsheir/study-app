@@ -1001,7 +1001,7 @@ Es la representación psíquica de imágenes intuitivas o eidéticas que surgen 
 El sujeto tiene perfecta noción de su origen y formación intrapsíquica, pero un estado de ánimo especial, desencadenado por poderosas corrientes afectivas, hace que a continuación le dé extrayección y la proyecte al campo sensoperceptivo.`,"hsl(60, 85%, 70%)",""],["Percepción delirante",`Se refiere a la interpretación errónea o irracional de la realidad, caracterizada por una creencia fija e inamovible que no se ve afectada por la evidencia en contrario.
 
 Es precedida por una desviación del juicio, que dificulta la  interpretación y comprensión correcta de las cosas e induce a la falsa interpretación de los hechos reales. 
-En los delirantes esas falsas interpretaciones son motivadas por vivencias subsiguientes a problemas de índole ideo afectivo cuya gran exaltación (angustia, desconfianza, recelo) propicia  el error perceptivo.
+Esas falsas interpretaciones son motivadas por vivencias subsiguientes a problemas de índole ideo afectivo cuya gran exaltación (angustia, desconfianza, recelo) propicia  el error perceptivo.
 
 En los esquizofrénicos  se presenta en la etapa prodrómica o primera fase`,"hsl(72, 85%, 70%)",""],["Exploración psicopatologica de la sensopercepcion","Se explora por medio de las entrevistas, interrogando y evaluando cada uno de los sentidos con las preguntas correctas.","hsl(84, 85%, 70%)","Exploracion psicopatologica del juicio,Exploración psicopatologica de la afectividad,Exploracion psicopatologica del pensamiento"],["Pensamiento",`Es la función psíquica por la cual las ideas se asocian para formar un concepto central.
 
