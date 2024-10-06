@@ -801,16 +801,16 @@ JUICIO DESVIADO
 
 El paciente desde que nace hasta que muere, ya tiene un juicio deficiente, es decir el juicio no se desarrollo apropiadamente y por lo tanto no puede llegar a verdades totales o absolutas.
 
-Se presenta en: retardo o retraso mental, síndrome de Down, asperger, etc.`,"hsl(72, 85%, 70%)",""],["Juicio debilitado",`Implica dificultades en la capacidad de evaluar situaciones y tomar decisiones adecuadas, hay disminución de la capacidad de comprensión, abstracción y síntesis. Surge del debilitamiento de la atención y la capacidad retentiva. Ocurre en forma paulatina.
+Se presenta en: retardo o retraso mental, síndrome de Down, asperger, etc.`,"hsl(72, 85%, 70%)","Juicio debilitado,Juicio Suspendido,Juicio Desviado"],["Juicio debilitado",`Implica dificultades en la capacidad de evaluar situaciones y tomar decisiones adecuadas, hay disminución de la capacidad de comprensión, abstracción y síntesis. Surge del debilitamiento de la atención y la capacidad retentiva. Ocurre en forma paulatina.
 
 Se presenta en: el trastorno bipolar, con cambios extremos en el estado de ánimo.
-`,"hsl(84, 85%, 70%)",""],["Juicio suspendido",`Indica una inacción o dificultad para tomar decisiones de manera oportuna, existe una alteración de la facultad de juzgar. Es secundario a trastornos de la conciencia.
+`,"hsl(84, 85%, 70%)","Juicio Insuficiente,Juicio Suspendido,Juicio Desviado"],["Juicio suspendido",`Indica una inacción o dificultad para tomar decisiones de manera oportuna, existe una alteración de la facultad de juzgar. Es secundario a trastornos de la conciencia.
 
 Por ejemplo: delirium
-`,"hsl(96, 85%, 70%)",""],["Juicio desviado",`Implica tomar decisiones que se apartan de las normas sociales o morales aceptadas, inhibición del juicio por la interferencia de una gran carga afectiva.
+`,"hsl(96, 85%, 70%)","Juicio debilitado,Juicio Insuficiente,Juicio Desviado"],["Juicio desviado",`Implica tomar decisiones que se apartan de las normas sociales o morales aceptadas, inhibición del juicio por la interferencia de una gran carga afectiva.
 
 Por ejemplo: Trastornos de personalidad antisocial, melancolía, delirios y manía.
-`,"hsl(108, 85%, 70%)",""],["Juicio critico",`Se refiere a la capacidad de evaluar, analizar y formar opiniones fundamentadas sobre una situación o información.
+`,"hsl(108, 85%, 70%)","Juicio debilitado,Juicio Suspendido,Juicio Insuficiente"],["Juicio critico",`Se refiere a la capacidad de evaluar, analizar y formar opiniones fundamentadas sobre una situación o información.
 
 Es la capacidad por la cual podemos sacar conclusiones de paradojas, metáforas, o anécdotas.
 
@@ -840,15 +840,15 @@ MIEDO
 IRRITABILIDAD
 ANHEDONIA`,"hsl(168, 85%, 70%)",""],["La alegría patológica",`Representa una exaltación del humor que se caracteriza por un aumento del tono vital a todos los niveles. Puede ser tan intensa que el paciente pierde el control de sus impulsos y puede actuar de manera inapropiada o peligrosa.
 
-No es una emoción positiva normal, sino un síntoma de una enfermedad psiquiátrica.`,"hsl(180, 85%, 70%)",""],["La euforia ",`Estado emocional caracterizado por una sensación intensa de felicidad, excitación y bienestar. (Euforia simple o alegría desmesurada). Genera una intensidad real, que tiene una duración ilimitada y presenta consecuencias en la conducta.
+No es una emoción positiva normal, sino un síntoma de una enfermedad psiquiátrica.`,"hsl(180, 85%, 70%)",""],["La euforia ",`Estado emocional caracterizado por una sensación intensa de felicidad, excitación y bienestar. Genera una intensidad real, que tiene una duración ilimitada y presenta consecuencias en la conducta.
 
 Puede ser un efecto secundario de ciertos medicamentos. Son muy frecuentes en los trastornos Bipolares, pero también pueden presentarse en intoxicaciones por drogas, cocaína, anfetamina, éxtasis, hongos alucinógenos etc.
 `,"hsl(192, 85%, 70%)",""],["Hipomania",`Estado de ánimo elevado, expansivo o irritable, menos severo que la manía, pero que implica un aumento anormal de la energía y la actividad.
 
-Es un estado afectivo intenso, constante y continuo, que hace que la persona sienta una inquietud psicomotriz, una alegría desmesurada, una hiperactividad física, que no influye en sus actividades diarias, es decir, los pacientes hipomaníacos son plenamente funcionales e incluso son de hecho a menudo más productivos de lo normal.
+Es un estado afectivo intenso, constante y continuo, que hace que la persona sienta una inquietud psicomotriz, una alegría desmesurada, una hiperactividad física, que no influye en sus actividades diarias, es decir, los pacientes son plenamente funcionales e incluso son de hecho a menudo más productivos de lo normal.
 `,"hsl(204, 85%, 70%)",""],["Mania",`Estado de ánimo anormalmente elevado, expansivo o irritable, acompañado de pensamientos acelerados, euforia excesiva y a menudo comportamiento impulsivo. 
 
-El paciente con manía presenta una euforia desbordante que contamina todo el ambiente y que puede interferir con todo.
+El paciente presenta una euforia desbordante que contamina todo el ambiente y que puede interferir con todo.
 
 Algunos síntomas característicos son: agitación psicomotriz, síntomas psicóticos, como los delirios de grandeza  o megalomaníacos.`,"hsl(216, 85%, 70%)",""],["Extasis",`Estado emocional de intensa alegría, exaltación y felicidad extrema. Estado de bienestar total, completo y absoluto que anula cualquier otro sentimiento.
 
@@ -906,6 +906,7 @@ Es una actividad determinada por la atención.
 Es un proceso complejo donde intervienen: Las sensaciones, evocaciones mnemónicas y asociación de ideas.
 
 Su finalidad es la comprensión de lo que se capta.
+
 Una percepción es la conciencia de lo percibido, de las sensaciones y se pueden esperar reacciones emocionales como respuestas a lo percibido`,"hsl(96, 85%, 70%)",""],["Sensopercepcion ",`Función psíquica compleja, que permite adquirir todo el material del mundo exterior y del mundo interior físico y mental.
 
 Es un proceso a través del cual capturamos estímulos de nuestro entorno para que puedan ser procesados e interpretados a nivel cerebral.
@@ -997,12 +998,12 @@ No tiene extrayección, no tiene corporeidad, y puede ser modificada por la volu
 
 Es la representación psíquica de imágenes intuitivas o eidéticas que surgen en forma súbita en el campo de la  conciencia.
 
-El sujeto tiene perfecta noción de su origen y formación intrapsíquica, pero un estado de ánimo especial, desencadenado por poderosas corrientes afectivas, hace que a continuación le dé extrayección y la proyecte al campo sensoperceptivo.`,"hsl(60, 85%, 70%)",""],["Percepcion delirante",`Se refiere a la interpretación errónea o irracional de la realidad, caracterizada por una creencia fija e inamovible que no se ve afectada por la evidencia en contrario.
+El sujeto tiene perfecta noción de su origen y formación intrapsíquica, pero un estado de ánimo especial, desencadenado por poderosas corrientes afectivas, hace que a continuación le dé extrayección y la proyecte al campo sensoperceptivo.`,"hsl(60, 85%, 70%)",""],["Percepción delirante",`Se refiere a la interpretación errónea o irracional de la realidad, caracterizada por una creencia fija e inamovible que no se ve afectada por la evidencia en contrario.
 
 Es precedida por una desviación del juicio, que dificulta la  interpretación y comprensión correcta de las cosas e induce a la falsa interpretación de los hechos reales. 
 En los delirantes esas falsas interpretaciones son motivadas por vivencias subsiguientes a problemas de índole ideo afectivo cuya gran exaltación (angustia, desconfianza, recelo) propicia  el error perceptivo.
 
-En los esquizofrénicos  se presenta en la etapa prodrómica o primera fase`,"hsl(72, 85%, 70%)",""],["Exploracion psicopatologica de la sensopercepcion","Se explora por medio de las entrevistas, interrogando y evaluando cada uno de los sentidos con las preguntas correctas.","hsl(84, 85%, 70%)",""],["Pensamiento",`Es la función psíquica por la cual las ideas se asocian para formar un concepto central.
+En los esquizofrénicos  se presenta en la etapa prodrómica o primera fase`,"hsl(72, 85%, 70%)",""],["Exploración psicopatologica de la sensopercepcion","Se explora por medio de las entrevistas, interrogando y evaluando cada uno de los sentidos con las preguntas correctas.","hsl(84, 85%, 70%)",""],["Pensamiento",`Es la función psíquica por la cual las ideas se asocian para formar un concepto central.
 
 Pace referencia a procesos mentales, voluntarios o involuntarios, mediante los cuales el individuo desarrolla sus ideas acerca del entorno, los demás o él mismo. es decir, los pensamientos son ideas, recuerdos y creencias en movimiento, relacionándose entre sí.`,"hsl(96, 85%, 70%)",""],["Mecanismos neuropsicológicos del pensamiento",`1) Redes Neuronales y Conectividad.
 
