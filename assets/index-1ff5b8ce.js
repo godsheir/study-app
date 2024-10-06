@@ -786,9 +786,9 @@ C: ¿cómo lo sabes si no he empezado a hablar?
 7. Empatía. Para ponerse en los zapatos de otro, primero hay que quitarse los propios`,"#9270CA",""]],xx=[["Juicio",`Es la función mental por la cual se realiza una síntesis que permite llegar a una conclusión entre las ideas o conocimientos. 
 
 Es siempre la afirmación  de una verdad y hace posible la aceptación y adquisición de un conocimiento.
-`,"hsl(0, 85%, 70%)",""],[" Juicio conservado","Cuando nuestras decisiones se adecuan a la realidad interna y externa","hsl(12, 85%, 70%)",""],["Etapas del juicio",`Etapa de elaboración
+`,"hsl(0, 85%, 70%)",""],[" Juicio conservado","Cuando nuestras decisiones se adecuan a la realidad interna y externa","hsl(12, 85%, 70%)",""],["Etapas del juicio",`Etapa de elaboración.
 
-Etapa crítica`,"hsl(24, 85%, 70%)",""],["Etapa de elaboracion","Se establecen relaciones entre lo nuevo y lo que ya se conoce (Juicios de relación), y se identifican estos conocimientos entre si, (Juicios de identificación).","hsl(36, 85%, 70%)",""],["Etapa critica",`Se hacen las comparaciones y la selección de los conocimientos aportados a la conciencia. Posteriormente se realiza la valoración de todo lo seleccionado, para llegar a una conclusión definitivo, (Juicios de valor).
+Etapa crítica.`,"hsl(24, 85%, 70%)",""],["Etapa de elaboracion","Se establecen relaciones entre lo nuevo y lo que ya se conoce (Juicios de relación), y se identifican estos conocimientos entre si, (Juicios de identificación).","hsl(36, 85%, 70%)",""],["Etapa critica",`Se hacen las comparaciones y la selección de los conocimientos aportados a la conciencia. Posteriormente se realiza la valoración de todo lo seleccionado, para llegar a una conclusión definitivo, (Juicios de valor).
 El juicio realiza un análisis minucioso antes de resumir sus conclusiones en una síntesis.
 `,"hsl(48, 85%, 70%)",""],["Patologias del juicio",`JUICIO INSUFICIENTE
 
@@ -1005,7 +1005,7 @@ Esas falsas interpretaciones son motivadas por vivencias subsiguientes a problem
 
 En los esquizofrénicos  se presenta en la etapa prodrómica o primera fase`,"hsl(72, 85%, 70%)",""],["Exploración psicopatologica de la sensopercepcion","Se explora por medio de las entrevistas, interrogando y evaluando cada uno de los sentidos con las preguntas correctas.","hsl(84, 85%, 70%)","Exploracion psicopatologica del juicio,Exploración psicopatologica de la afectividad,Exploracion psicopatologica del pensamiento"],["Pensamiento",`Es la función psíquica por la cual las ideas se asocian para formar un concepto central.
 
-Hace referencia a procesos mentales, voluntarios o involuntarios, mediante los cuales el individuo desarrolla sus ideas acerca del entorno, los demás o él mismo. es decir, los pensamientos son ideas, recuerdos y creencias en movimiento, relacionándose entre sí.`,"hsl(96, 85%, 70%)",""],["Mecanismos neuropsicológicos del pensamiento",`1) Redes Neuronales y Conectividad.
+Hace referencia a procesos mentales, voluntarios o involuntarios, mediante los cuales el individuo desarrolla sus ideas acerca del entorno, los demás o él mismo. Es decir, son ideas, recuerdos y creencias en movimiento, relacionándose entre sí.`,"hsl(96, 85%, 70%)",""],["Mecanismos neuropsicológicos del pensamiento",`1) Redes Neuronales y Conectividad.
 
 2) Áreas Cerebrales Claves:
 Corteza Prefrontal: Responsable de las funciones ejecutivas como la planificación, toma de decisiones, razonamiento y control de impulsos.
@@ -1024,7 +1024,7 @@ Gaba (ácido gamma-aminobutírico): principal neurotransmisor inhibitorio, ayuda
 
 2- Contenido (Unión de una idea central mas ideas accesorias)
 
-3- Forma (Como se unen o canalizan las ideas entre si para formar el concepto)`,"hsl(120, 85%, 70%)",""],["Pensamiento magico",`Es la creencia de que ciertos pensamientos pueden influir en eventos externos de manera poco realista.
+3- Forma (Como se unen o canalizan las ideas entre si para formar el concepto)`,"hsl(120, 85%, 70%)",""],["Pensamiento mágico",`Es la creencia de que ciertos pensamientos pueden influir en eventos externos de manera poco realista.
 
 Son explicaciones basadas en la magia y fantasía, que contradicen a las leyes naturales, carecen de sustento científico y cumplen la función de reducir la ansiedad asociada con los eventos impredecibles del mundo.
 
@@ -1579,13 +1579,13 @@ Los síntomas incluyen angustia al anticipar la separación, miedo a perder a la
 
 A menudo se observa en niños en entornos escolares, aunque pueden comunicarse libremente en casa.`,"hsl(276, 85%, 70%)",""],["Diferencia entre ataque de pánico y trastorno de pánico","Uno es un episodio súbito e intenso de miedo o malestar que alcanza su máxima expresión en minutos mientras que el otro esta caracterizado por la recurrencia de crisis inesperadas.","hsl(288, 85%, 70%)","Diferencia entre ansiedad y miedo,Diferencia entre TID y trance,Diferencias entre esquizofrenia y psicosis esquizoafectivas"],["Psicosis",`Es un conjunto de trastornos que tienen como alteración principal la desviación del juicio y debido a esta desviación se van alterando todas las funciones mentales que darán el conjunto de psicopatologías.
 
-Es un trastorno mental caracterizado por una alteración significativa de la percepción y la realidad. Las personas que lo padecen pueden experimentar dificultades para distinguir lo que es real de lo que no lo es, afectando su pensamiento, emociones y comportamiento.`,"hsl(300, 85%, 70%)",""],["Tipos de psicosis",`Esquizofrenia
-Trastorno Delirante Persistente (Trastorno Paranoide o Paranoia)
-Psicosis Orgánicas
-Psicosis Breves
-Psicosis Esquizoafectivas
-Psicosis Esquizofreniforme
-Psicosis Puerperal (Psicosis post-parto)`,"hsl(312, 85%, 70%)",""],["Sintomas basicos de la psicosis",`Desviación del Juicio
+Es un trastorno mental caracterizado por una alteración significativa de la percepción y la realidad. Las personas que lo padecen pueden experimentar dificultades para distinguir lo que es real de lo que no lo es, afectando su pensamiento, emociones y comportamiento.`,"hsl(300, 85%, 70%)",""],["Tipos de psicosis",`Esquizofrenia.
+Trastorno Delirante Persistente (Trastorno Paranoide o Paranoia).
+Psicosis Orgánicas.
+Psicosis Breves.
+Psicosis Esquizoafectivas.
+Psicosis Esquizofreniforme.
+Psicosis Puerperal (Psicosis post-parto).`,"hsl(312, 85%, 70%)",""],["Sintomas basicos de la psicosis",`Desviación del Juicio
 Ilusiones
 Alucinaciones
 Delirios
