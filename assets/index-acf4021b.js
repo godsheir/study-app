@@ -913,9 +913,9 @@ Es un proceso a través del cual capturamos estímulos de nuestro entorno para q
 
 Es un proceso en el que concurren el procesamiento sensorial y el perceptivo, necesarios ambos para que podamos configurar una realidad coherente y accesible.`,"hsl(108, 85%, 70%)",""],["Actividad sensorial",`Para que ello pueda darse se requiere la participación: 
 
-Sentidos Externos
+Sentidos Externos.
 
-Sentidos internos
+Sentidos internos.
 
 Percepción del mundo mental y nuestra vida psicológica por la conciencia.
 `,"hsl(120, 85%, 70%)",""],["Sentidos Externos","Implican todos los sentidos, visual, auditivo, táctil, gustativo y olfativo.","hsl(132, 85%, 70%)",""],["Sentidos internos","Implican los sentidos de los órganos, cenestésicos, cinético y de orientación.","hsl(144, 85%, 70%)",""],["Cenestesia","Sensación general del estado del propio cuerpo, los órganos sienten mediante receptores específicos que nos hacen percibir como están nuestros órganos.","hsl(156, 85%, 70%)",""],["Kinestesia","Se encarga de percibir y controlar el movimiento corporal, así como de la posición y el equilibrio. Son receptores que están en las articulaciones haciendo que podamos percibir el sentido horizontal y vertical.","hsl(168, 85%, 70%)",""],["Una imagen",`Es una representación mental o visual de algo que puede ser experimentada por la mente. Puede referirse a una representación simbólica o visual de algo real o imaginado.
@@ -1125,7 +1125,7 @@ Es cuando se llama silla a la mesa por ejemplo, se utiliza un término para desi
 
 Se presenta en los Tx psicóticos de tipo orgánico o no.`,"hsl(251.99999999999997, 85%, 70%)",""],["Exploracion psicopatologica del pensamiento",`Por medio de la entrevista psicopatológica, prestando especial atención al contenido del lenguaje oral y mímico, así como la observación de su conducta.
 
-Se debe explorar el contenido, la forma y la velocidad del pensamiento.`,"hsl(264, 85%, 70%)","Exploracion psicopatologica del juicio,Exploración psicopatologica de la afectividad,Exploración psicopatologica de la sensopercepcion"],["Psicomotricidad",`Es la integración de las funciones motrices y el apartado psíquico del individuo.
+Se debe explorar el contenido, la forma y la velocidad.`,"hsl(264, 85%, 70%)","Exploracion psicopatologica del juicio,Exploración psicopatologica de la afectividad,Exploración psicopatologica de la sensopercepcion"],["Psicomotricidad",`Es la integración de las funciones motrices y el apartado psíquico del individuo.
 
 Es la interacción de una persona con experiencias cognitivas emocionales y su respuesta a ellas, que involucra todo tipo de movimientos expresivos, como la forma de caminar, gestos faciales o corporales y las posturas en reposo.
 
@@ -1482,7 +1482,7 @@ Estas reacciones debemos entenderla como normal y adaptativa, ya que no podemos 
 Es el síntoma psicopatológico más común en los trastornos psiquiátricos en la población general.
 
 Su frecuencia en las mujeres duplica a la de los varones.
-`,"hsl(60, 85%, 70%)",""],["Los trastornos de ansiedad ",`Son afecciones en las que la ansiedad no desaparece y puede empeorar con el tiempo. los síntomas pueden interferir con las actividades diarias, como el desempeño laboral, académico e interpersonal.
+`,"hsl(60, 85%, 70%)",""],["Los trastornos de ansiedad ",`Son afecciones en las que la ansiedad no desaparece y puede empeorar con el tiempo. Los síntomas pueden interferir con las actividades diarias, como el desempeño laboral, académico e interpersonal.
 
 Resultan de la interacción existente entre los factores psicológicos, biológicos y sociales.
 
