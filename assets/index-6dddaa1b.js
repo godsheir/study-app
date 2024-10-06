@@ -825,7 +825,7 @@ Pueden ser Agradables y Desagradables.`,"hsl(144, 85%, 70%)",""],["Mecanismos ne
 El Sistema Límbico esta formado por: Tálamo, Fondo de saco, Circunvolución Cingulada, amígdala e hipocampo.
 
 NEUROTRASMISORES IMPLICADOS: Noradrenalina. Serotonina y Dopamina (NA; 5HT; DA) 
-`,"hsl(156, 85%, 70%)",""],["Psicopatoligias de la afectividad",`PLACENTERAS:
+`,"hsl(156, 85%, 70%)","Mecanismos neuropsicologicos de la sensopercepcion,Mecanismos neuropsicológicos del pensamiento,Mecanismos neuropsicologicos de la psicomotricidad"],["Psicopatoligias de la afectividad",`PLACENTERAS:
 ALEGRIA SIMPLE
 EUFORIA
 HIPOMANIA
@@ -897,7 +897,7 @@ Típico de los trastornos psicóticos y retrasos mentales.
 Por medio de las entrevistas y la empatía evaluando su humor a través del lenguaje tanto verbal como corporal y la coherencia entre ambos, así como el contenido del pensamiento.`,"hsl(60, 85%, 70%)",""],["Mecanismos neuropsicologicos de la sensopercepcion",`Sensación
 Percepción
 Zona parietal del cerebro
-Áreas asociadas (frontal, parietal, occipital y temporal)`,"hsl(72, 85%, 70%)",""],["Sensacion",`Es nuestra capacidad para detectar sentidos como el tacto, el dolor, la visión o el movimiento, y posicionamiento de nuestro cuerpo.
+Áreas asociadas (frontal, parietal, occipital y temporal)`,"hsl(72, 85%, 70%)","Mecanismos neuropsicologicos de la afectividad,Mecanismos neuropsicológicos del pensamiento,Mecanismos neuropsicologicos de la psicomotricidad"],["Sensacion",`Es nuestra capacidad para detectar sentidos como el tacto, el dolor, la visión o el movimiento, y posicionamiento de nuestro cuerpo.
 Es el elemento primario, fundamental y básico de la percepción.
 
 Es el registro en la conciencia de la estimulación producida por cualquiera de los aparatos sensoriales. La sensación registrada es sometida a elaboraciones psíquicas por las cuales se convierte en una percepción.
@@ -1020,7 +1020,7 @@ Serotonina: relacionada con el estado de ánimo, la memoria y la cognición.
 Glutamato: principal neurotransmisor excitatorio, crucial para la plasticidad sináptica y la memoria.
 Gaba (ácido gamma-aminobutírico): principal neurotransmisor inhibitorio, ayuda a regular la excitación neuronal.
 
-4) Plasticidad neuronal.`,"hsl(108, 85%, 70%)",""],["Componentes del pensamiento",`1- Curso o flujo (Velocidad del pensamiento)
+4) Plasticidad neuronal.`,"hsl(108, 85%, 70%)","Mecanismos neuropsicologicos de la afectividad,Mecanismos neuropsicologicos de la sensopercepcion,Mecanismos neuropsicologicos de la psicomotricidad"],["Componentes del pensamiento",`1- Curso o flujo (Velocidad del pensamiento)
 
 2- Contenido (Unión de una idea central mas ideas accesorias)
 
@@ -1141,7 +1141,7 @@ AREA SENSORIAL PARIETAL
 GANGLIOS BASALES
 CORTEZA CEREBRAL
 MEDULA ESPINAL
-SINAPSIS NEUROMUSCULAR`,"hsl(300, 85%, 70%)",""],["Psicopatologias de la motricidad",`RETARDO PSICOMOTOR (HIPOBULIA)
+SINAPSIS NEUROMUSCULAR`,"hsl(300, 85%, 70%)","Mecanismos neuropsicologicos de la afectividad,Mecanismos neuropsicologicos de la sensopercepcion,Mecanismos neuropsicológicos del pensamiento"],["Psicopatologias de la motricidad",`RETARDO PSICOMOTOR (HIPOBULIA)
 INQUIETUD PSICOMOTRIZ
 AGITACION PSICOMOTRIZ
 ECOPRAXIAS
