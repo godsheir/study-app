@@ -966,7 +966,7 @@ Es la mas frecuente en los pacientes esquizofrénicos, donde se da como voces di
 
 Ambas alucinaciones revisten, un carácter desagradable y como por lo común se vinculan con los alimentos del enfermo se niega a comer por temor a ser envenenados. En los místicos son placenteras (perfumes y emanaciones agradables).
 
-Se ven con mayor frecuencia en los trastornos psicóticos de tipo paranoide (Esquizofrenia Paranoide), y en el trastorno delirante persistente (Paranoia).`,"hsl(348, 85%, 70%)",""],["Alucinaciones Cenestésicas",`Son las que conciernen a la cenestesia general, es decir, a los llamados sentido internos, se observa frecuentemente en los hipocondríacos, neuróticos y melancólicos.
+Se ven con mayor frecuencia en los trastornos psicóticos de tipo paranoide (Esquizofrenia Paranoide), y en el trastorno delirante persistente (Paranoia).`,"hsl(348, 85%, 70%)",""],["Alucinaciones Cenestésicas",`Son las que conciernen a los llamados sentidos internos, se observa frecuentemente en los hipocondríacos, neuróticos y melancólicos.
 
 Las alucinaciones cenestésicas se vinculan a los diversos aparatos y órganos del cuerpo, los hipocondríacos y neuróticos se quejan de sofocación, disnea, palpitaciones, dolores viscerales vagos, imprecisos en sus caracteres y localizaciones. `,"hsl(0, 85%, 70%)",""],["Alucinaciones Cinéticas o Kinestésicas",`Los enfermos así alucinados experimentan la sensación de que se imprime los más variados movimientos a sus miembros o, parcial o totalmente, a su cuerpo;  no es raro que manifiesten que reciben golpes y empellones o que se los mantiene suspendidos en el aire.
 
