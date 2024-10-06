@@ -1180,12 +1180,11 @@ Estos actos están destinados a prevenir o reducir el malestar o a evitar algún
 
 Son actos motores que normalmente responden a una idea obsesiva.
 
-Ejemplo: TOC`,"hsl(36, 85%, 70%)",""],["Trastornos Catatónicos",`Flexibilidad cérea
-Posturas forzadas
-Obediencia automática
-Negativismo
-Cataplexia
-`,"hsl(48, 85%, 70%)",""],["Flexibilidad cérea","Es una característica de la catatonia en la que las extremidades del paciente pueden ser movidas por otra persona y permanecen en la posición en la que se dejan, como si fueran de cera. Los músculos tienen una tonicidad parecida a la cera.","hsl(60, 85%, 70%)",""],[" Posturas forzadas",`Son posiciones anormales y sostenidas que el paciente adopta de manera espontánea o inducida y que mantiene durante períodos prolongados.
+Ejemplo: TOC`,"hsl(36, 85%, 70%)",""],["Trastornos Catatónicos",`Flexibilidad cérea.
+Posturas forzadas.
+Obediencia automática.
+Negativismo.
+Cataplexia.`,"hsl(48, 85%, 70%)",""],["Flexibilidad cérea","Es una característica de la catatonia en la que las extremidades del paciente pueden ser movidas por otra persona y permanecen en la posición en la que se dejan, como si fueran de cera. Los músculos tienen una tonicidad parecida a la cera.","hsl(60, 85%, 70%)",""],[" Posturas forzadas",`Son posiciones anormales y sostenidas que el paciente adopta de manera espontánea o inducida y que mantiene durante períodos prolongados.
 `,"hsl(72, 85%, 70%)",""],["Obediencia automática","Es la tendencia del paciente a seguir órdenes o instrucciones de manera automática y sin cuestionar, incluso si estas son absurdas o peligrosas.","hsl(84, 85%, 70%)",""],["Negativismo","Es la resistencia activa o pasiva a las instrucciones o intentos de movilización. Los pacientes pueden oponerse a todo lo que se les pide hacer.","hsl(96, 85%, 70%)",""],["Cataplexia",`Es una pérdida repentina y temporal del tono muscular, a menudo desencadenada por emociones fuertes, que puede llevar a la persona a caer al suelo, aunque mantenga la conciencia.
 
 El paciente puede quedar en un estado sin tono muscular por días, horas, semanas y meses.
@@ -1718,7 +1717,7 @@ Se caracteriza por el inicio temprano, normalmente en la adolescencia o pre-adol
 
 Presentan un comportamiento y habla desorganizada, afecto inapropiado o plano, y dificultades para mantener un pensamiento coherente. (síntomas negativos).
 
-Hay menos delirios y alucinaciones en comparación con otros subtipos.`,"hsl(132, 85%, 70%)",""],["Esquizofrenia Residual",`Se refiere a un estado en el cual los síntomas psicóticos han disminuido, pero persisten síntomas negativos como apatía, falta de energía, retraimiento social y disminución de la capacidad para planificar o realizar actividades cotidianas.
+Hay menos delirios y alucinaciones en comparación con otros subtipos.`,"hsl(132, 85%, 70%)","Esquizofrenia catatónica,Esquizofrenia Paranoide,Esquizofrenia Residual"],["Esquizofrenia Residual",`Se refiere a un estado en el cual los síntomas psicóticos han disminuido, pero persisten síntomas negativos como apatía, falta de energía, retraimiento social y disminución de la capacidad para planificar o realizar actividades cotidianas.
 
 Son las esquizofrenias con varios brotes psicóticos que no fueron bien resueltos y van quedando secuelas que forman este tipo de esquizofrenia.`,"hsl(144, 85%, 70%)",""],["Transtorno paranoide",`Inicio Tardío (entre los 25 y 45 años) y más aun a los 60 años, muchas veces aparece en ancianos más frecuentemente como manifestación de inicio (inicio del cuadro).
 
