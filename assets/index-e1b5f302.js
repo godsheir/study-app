@@ -1419,23 +1419,23 @@ Un episodio maníaco se define por un estado de ánimo anormalmente elevado, exp
 
 Manía + Depresión + Periodo libre se síntomas
 
-`,"hsl(288, 85%, 70%)",""],["Fase maniaca del Transtorno Bipolar",`Estado excesivamente alegre o sobrexcitado
-Euforia contaminante
-Aumento de energía y la actividad
-Autoestima excesiva 
-Fuga de ideas, verborrea
-Hablar excesivamente
-Tendencia a una conducta impulsiva 
-Delirios megalomaníacos
+`,"hsl(288, 85%, 70%)",""],["Fase maniaca del Transtorno Bipolar",`Estado excesivamente alegre o sobrexcitado.
+Euforia contaminante.
+Aumento de energía y la actividad.
+Autoestima excesiva.
+Fuga de ideas, verborrea.
+Hablar excesivamente.
+Tendencia a una conducta impulsiva.
+Delirios megalomaníacos.
 Implicación excesiva en actividades placenteras con alto potencial de consecuencias negativas (ej. compras compulsivas, conductas sexuales de riesgo).
-Aumento de la actividad orientada a metas o agitación psicomotora.`,"hsl(300, 85%, 70%)",""],["Fase depresiva del Transtorno Bipolar",`Disminución de la energía y la actividad
-Tristeza patológica
-Llanto 
-Sentimientos de culpa
-Dificultad de concentración
-Pérdida del apetito
-Pensamientos de muerte o suicidio
-Distractibilidad
+Aumento de la actividad orientada a metas o agitación psicomotora.`,"hsl(300, 85%, 70%)",""],["Fase depresiva del Transtorno Bipolar",`Disminución de la energía y la actividad.
+Tristeza patológica.
+Llanto.
+Sentimientos de culpa.
+Dificultad de concentración.
+Pérdida del apetito.
+Pensamientos de muerte o suicidio.
+Distractibilidad.
 Disminución de la necesidad de dormir.`,"hsl(312, 85%, 70%)",""],["Trastorno Bipolar II",`Se caracteriza por la ocurrencia de al menos un episodio hipomaníaco y uno o más episodios depresivos mayores.
 
 Los episodios hipomaníacos son menos intensos que los maníacos y no causan un deterioro significativo en la vida social u ocupacional, ni requieren hospitalización.
