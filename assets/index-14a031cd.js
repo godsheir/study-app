@@ -816,7 +816,7 @@ Es la capacidad por la cual podemos sacar conclusiones de paradojas, metáforas,
 
 Puede estar interferido por muchos aspectos: deficiencia educacional, nutrición en la niñez, carencia proteica y de hidratos de carbono, así como también factores personales.
 
-Se explora por medio de las metáforas y moralejas.`,"hsl(120, 85%, 70%)",""],["Exploracion psicopatologica del juicio","Se deben evaluar todas las funciones mentales y la coherencia y consistencia entra ellas.","hsl(132, 85%, 70%)",""],["Afectividad",`Función Psíquica que Impulsa y colorea toda la vida del sujeto.
+Se explora por medio de las metáforas y moralejas.`,"hsl(120, 85%, 70%)",""],["Exploracion psicopatologica del juicio","Se deben evaluar todas las funciones mentales y la coherencia y consistencia entra ellas.","hsl(132, 85%, 70%)","Exploración psicopatologica de la afectividad,Exploración psicopatologica de la sensopercepcion,Exploracion psicopatologica del pensamiento"],["Afectividad",`Función Psíquica que Impulsa y colorea toda la vida del sujeto.
 
 Es el conjunto de experiencias que definen y delimitan la vida emocional del individuo.
 
@@ -894,7 +894,7 @@ Típico de los trastornos psicóticos y retrasos mentales.
 `,"hsl(36, 85%, 70%)",""],["La alexitimia",`Puede definirse como la incapacidad para percibir sentimientos o expresar e identificar los propios.
 `,"hsl(48, 85%, 70%)",""],["La exploración psicopatologica de la afectividad",`Se basa en datos subjetivos referidos por el paciente en cuanto a sentimientos, estado de ánimo, afectos o emociones predominantes, aunque sin obviar aspectos más objetivos como la apariencia externa, la conducta motora, la expresividad o la actitud durante la entrevista.
 
-Por medio de las entrevistas y la empatía evaluando su humor a través del lenguaje tanto verbal como corporal y la coherencia entre ambos, así como el contenido del pensamiento.`,"hsl(60, 85%, 70%)",""],["Mecanismos neuropsicologicos de la sensopercepcion",`Sensación
+Por medio de las entrevistas y la empatía evaluando su humor a través del lenguaje tanto verbal como corporal y la coherencia entre ambos, así como el contenido del pensamiento.`,"hsl(60, 85%, 70%)","Exploracion psicopatologica del juicio,Exploración psicopatologica de la sensopercepcion,Exploracion psicopatologica del pensamiento"],["Mecanismos neuropsicologicos de la sensopercepcion",`Sensación
 Percepción
 Zona parietal del cerebro
 Áreas asociadas (frontal, parietal, occipital y temporal)`,"hsl(72, 85%, 70%)","Mecanismos neuropsicologicos de la afectividad,Mecanismos neuropsicológicos del pensamiento,Mecanismos neuropsicologicos de la psicomotricidad"],["Sensacion",`Es nuestra capacidad para detectar sentidos como el tacto, el dolor, la visión o el movimiento, y posicionamiento de nuestro cuerpo.
@@ -947,9 +947,9 @@ Se basan en estímulos reales pero son malinterpretadas.`,"hsl(264, 85%, 70%)","
 
 Según Ball: la alucinación es una alteración perceptiva producto de la elaboración de un juicio interferido y desviado, que crea una viva representación originada en una imagen del recuerdo o de la fantasía; proyectada al exterior y es aceptada como real como producto de una captación sensorial. O sea es la PERCEPCION SIN OBJETO. 
 
-Pueden ocurrir en cualquiera de los sentidos (auditivas, visuales, táctiles, etc.) y pueden ser un síntoma de varios trastornos psiquiátricos y neurológicos.`,"hsl(276, 85%, 70%)",""],["Caracteristicas de la alucinación",`La imagen, no tiene corporeidad o sea no tiene forma ni cuerpo.
+Pueden ocurrir en cualquiera de los sentidos (auditivas, visuales, táctiles, etc.) y pueden ser un síntoma de varios trastornos psiquiátricos y neurológicos.`,"hsl(276, 85%, 70%)",""],["Caracteristicas de la alucinasión",`La imagen, no tiene corporeidad o sea no tiene forma ni cuerpo.
 
-Si tiene Extrayección, el paciente lo percibe como si viniera de afuera
+Si tiene Extrayección, el paciente lo percibe como si viniera de afuera.
 
 Puede ser modificado por la Voluntad del paciente.`,"hsl(288, 85%, 70%)",""],["Tipos de alucinaciones",`Sensoriales.
 Cenestesicas.
@@ -1003,7 +1003,7 @@ El sujeto tiene perfecta noción de su origen y formación intrapsíquica, pero 
 Es precedida por una desviación del juicio, que dificulta la  interpretación y comprensión correcta de las cosas e induce a la falsa interpretación de los hechos reales. 
 En los delirantes esas falsas interpretaciones son motivadas por vivencias subsiguientes a problemas de índole ideo afectivo cuya gran exaltación (angustia, desconfianza, recelo) propicia  el error perceptivo.
 
-En los esquizofrénicos  se presenta en la etapa prodrómica o primera fase`,"hsl(72, 85%, 70%)",""],["Exploración psicopatologica de la sensopercepcion","Se explora por medio de las entrevistas, interrogando y evaluando cada uno de los sentidos con las preguntas correctas.","hsl(84, 85%, 70%)",""],["Pensamiento",`Es la función psíquica por la cual las ideas se asocian para formar un concepto central.
+En los esquizofrénicos  se presenta en la etapa prodrómica o primera fase`,"hsl(72, 85%, 70%)",""],["Exploración psicopatologica de la sensopercepcion","Se explora por medio de las entrevistas, interrogando y evaluando cada uno de los sentidos con las preguntas correctas.","hsl(84, 85%, 70%)","Exploracion psicopatologica del juicio,Exploración psicopatologica de la afectividad,Exploracion psicopatologica del pensamiento"],["Pensamiento",`Es la función psíquica por la cual las ideas se asocian para formar un concepto central.
 
 Hace referencia a procesos mentales, voluntarios o involuntarios, mediante los cuales el individuo desarrolla sus ideas acerca del entorno, los demás o él mismo. es decir, los pensamientos son ideas, recuerdos y creencias en movimiento, relacionándose entre sí.`,"hsl(96, 85%, 70%)",""],["Mecanismos neuropsicológicos del pensamiento",`1) Redes Neuronales y Conectividad.
 
@@ -1125,7 +1125,7 @@ Es cuando se llama silla a la mesa por ejemplo, se utiliza un término para desi
 
 Se presenta en los Tx psicóticos de tipo orgánico o no.`,"hsl(251.99999999999997, 85%, 70%)",""],["Exploracion psicopatologica del pensamiento",`Por medio de la entrevista psicopatológica, prestando especial atención al contenido del lenguaje oral y mímico, así como la observación de su conducta.
 
-Se debe explorar el contenido, la forma y la velocidad del pensamiento.`,"hsl(264, 85%, 70%)",""],["Psicomotricidad",`Es la integración de las funciones motrices y el apartado psíquico del individuo.
+Se debe explorar el contenido, la forma y la velocidad del pensamiento.`,"hsl(264, 85%, 70%)","Exploracion psicopatologica del juicio,Exploración psicopatologica de la afectividad,Exploración psicopatologica de la sensopercepcion"],["Psicomotricidad",`Es la integración de las funciones motrices y el apartado psíquico del individuo.
 
 Es la interacción de una persona con experiencias cognitivas emocionales y su respuesta a ellas, que involucra todo tipo de movimientos expresivos, como la forma de caminar, gestos faciales o corporales y las posturas en reposo.
 
@@ -1219,7 +1219,7 @@ El entrevistador intervendrá durante la entrevista de dos formas:
 
 ACTIVA: Dando ordenes especificas al paciente para que realice movimientos diversos.
 
-PASIVA: Observando todos los movimientos tanto voluntarios como involuntarios del paciente.`,"hsl(204, 85%, 70%)",""],["La neurosis o neuroticismo",`También conocida como inestabilidad emocional es un rasgo psicológico que define parte de la personalidad, de las características psíquicas de una persona.
+PASIVA: Observando todos los movimientos tanto voluntarios como involuntarios del paciente.`,"hsl(204, 85%, 70%)","Exploracion psicopatologica del juicio,Exploración psicopatologica de la afectividad,Exploración psicopatologica de la sensopercepcion"],["La neurosis o neuroticismo",`También conocida como inestabilidad emocional es un rasgo psicológico que define parte de la personalidad, de las características psíquicas de una persona.
 
 Es un trastorno que tiene una evolución crónica o recurrente, que no produce una pérdida de contacto con la realidad como las psicosis y que se manifiesta principalmente por la presencia de angustia o ansiedad.
 
