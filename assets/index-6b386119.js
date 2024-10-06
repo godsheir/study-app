@@ -1512,16 +1512,16 @@ Gastrointestinales: nauseas, vértigos, vómitos, diarrea, aerofagia, dispepsias
 Genitourinarios: urgencia miccional, enuresis, eyaculación precoz, frigidez impotencia.
 Neuromusculares: temblor, tensión muscular, hormigueo, cefalea tensional, fatiga excesiva.
 Neurovegetativos: sequedad de boca, sudoración excesiva, mareos, sudoración fría, manos y pies fríos, parestesias.
-`,"hsl(144, 85%, 70%)",""],["Prevalencia del trastorno de ansiedad","Se estima que alrededor del 25% a 35% de la población mundial experimentará en alguna ocasión","hsl(156, 85%, 70%)",""],["Tipos de transtornos de ansiedad",`Crisis de angustia (pánico)
-Agorafobia
-Trastorno de ansiedad generalizada
-Fobias (especifica y social)
-Trastorno por estrés postraumático
-Trastorno obsesivo compulsivo
-Trastorno de ansiedad por separación
-Mutismo selectivo
-Trastorno de Ansiedad Inducido por Sustancias Trastorno de Ansiedad debido a otra Afección Médica
-`,"hsl(168, 85%, 70%)",""],["Crisis de angustia (pánico)",`Se caracteriza por un episodio repentino o aparición brusca de miedo o malestar intenso que alcanza su máxima intensidad en minutos (15 a 30 min) y está acompañado de síntomas físicos y cognitivos que se van acentuando progresivamente, después viene una calma y desaparece.
+`,"hsl(144, 85%, 70%)",""],["Prevalencia del trastorno de ansiedad","Se estima que alrededor del 25% a 35% de la población mundial experimentará en alguna ocasión","hsl(156, 85%, 70%)",""],["Tipos de transtornos de ansiedad",`Crisis de angustia (pánico).
+Agorafobia.
+Trastorno de ansiedad generalizada.
+Fobias (especifica y social).
+Trastorno por estrés postraumático.
+Trastorno obsesivo compulsivo.
+Trastorno de ansiedad por separación.
+Mutismo selectivo.
+Trastorno de Ansiedad Inducido por Sustancias.
+Trastorno de Ansiedad debido a otra Afección Médica.`,"hsl(168, 85%, 70%)",""],["Crisis de angustia (pánico)",`Se caracteriza por un episodio repentino o aparición brusca de miedo o malestar intenso que alcanza su máxima intensidad en minutos (15 a 30 min) y está acompañado de síntomas físicos y cognitivos que se van acentuando progresivamente, después viene una calma y desaparece.
 
 Síntomas característicos: 
 Palpitaciones, sudoración, temblores.
