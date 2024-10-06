@@ -947,7 +947,7 @@ Se basan en estímulos reales pero son malinterpretadas.`,"hsl(264, 85%, 70%)","
 
 Según Ball: la alucinación es una alteración perceptiva producto de la elaboración de un juicio interferido y desviado, que crea una viva representación originada en una imagen del recuerdo o de la fantasía; proyectada al exterior y es aceptada como real como producto de una captación sensorial. O sea es la PERCEPCION SIN OBJETO. 
 
-Pueden ocurrir en cualquiera de los sentidos (auditivas, visuales, táctiles, etc.) y pueden ser un síntoma de varios trastornos psiquiátricos y neurológicos.`,"hsl(276, 85%, 70%)",""],["Caracteristicas de la alucinasión",`La imagen, no tiene corporeidad o sea no tiene forma ni cuerpo.
+Pueden ocurrir en cualquiera de los sentidos (auditivas, visuales, táctiles, etc.) y pueden ser un síntoma de varios trastornos psiquiátricos y neurológicos.`,"hsl(276, 85%, 70%)",""],["Caracteristicas de la alucinación",`La imagen, no tiene corporeidad o sea no tiene forma ni cuerpo.
 
 Si tiene Extrayección, el paciente lo percibe como si viniera de afuera.
 
