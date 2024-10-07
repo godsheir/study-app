@@ -1293,7 +1293,7 @@ Historia de trauma: A menudo se asocia con experiencias traumáticas en la infan
 
 Focalización o absorción: La persona puede estar extremadamente enfocada en una idea, pensamiento o estímulo externo, al punto de perder la noción del tiempo o del lugar.
 
-Amnesia parcial o completa: La persona puede no recordar lo que sucedió durante el estado de trance.`,"hsl(108, 85%, 70%)",""],["Características de la Posesión",`Cambio de identidad: La persona siente o actúa como si estuviera siendo controlada por una entidad externa, como un espíritu, demonio, o deidad. Este cambio es percibido como involuntario y puede estar acompañado de comportamientos que son completamente ajenos a la personalidad habitual del individuo.
+Amnesia parcial o completa: La persona puede no recordar lo que sucedió durante ese estado.`,"hsl(108, 85%, 70%)",""],["Características de la Posesión",`Cambio de identidad: La persona siente o actúa como si estuviera siendo controlada por una entidad externa, como un espíritu, demonio, o deidad. Este cambio es percibido como involuntario y puede estar acompañado de comportamientos que son completamente ajenos a la personalidad habitual del individuo.
 
 Pérdida de control: La persona puede perder el control de sus acciones, habla, y pensamientos, a menudo de manera abrupta.
 
