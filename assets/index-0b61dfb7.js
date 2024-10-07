@@ -1638,7 +1638,7 @@ Es la más frecuente de las psicosis y la que más requiere de internación.
 
 Es una enfermedad crónica y recidivante.
 
-Predisposición genética.`,"hsl(336, 85%, 70%)",""],["Causas de la esquizofrenia",`Genética:  A veces es hereditaria. Sin embargo, solo porque alguien en una familia tiene lo tiene, no significa que otros miembros de esta también la tendrán.
+Predisposición genética.`,"hsl(336, 85%, 70%)",""],["Causas de la esquizofrenia",`Genética:  A veces es hereditaria. Sin embargo, solo porque alguien en una familia lo tiene, no significa que otros miembros de esta también la tendrán.
 
 Alteraciones bioquímicas.
 
