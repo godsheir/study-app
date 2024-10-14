@@ -621,7 +621,7 @@ Focalizar el diálogo cuando el paciente tiende a divagar`,"hsl(251.999999999999
 Negación emocional.
 Protesta.
 Tristeza y pena.
-Negación intelectual.
+Aceptación intelectual.
 Aceptación global.
 Nuevos vínculos.`,"hsl(84, 85%, 70%)",""],["Conmoción","Sentimientos iniciales de incredulidad y shock.","hsl(96, 85%, 70%)",""],["Negación emocional","La persona puede rechazar la realidad de la pérdida.","hsl(108, 85%, 70%)",""],["Protesta","Fase de resistencia y frustración ante la pérdida.","hsl(120, 85%, 70%)",""],["Tristeza y pena","Emociones profundas de dolor.","hsl(132, 85%, 70%)",""],["Aceptación intelectual","Comienza la racionalización de la pérdida.","hsl(144, 85%, 70%)",""],["Aceptación global","Se integra completamente la realidad de la pérdida.","hsl(156, 85%, 70%)",""],["Nuevos vínculos","La persona se adapta y establece nuevas relaciones o metas.","hsl(168, 85%, 70%)",""]],xx=[["Juicio",`Es la función mental por la cual se realiza una síntesis que permite llegar a una conclusión entre las ideas o conocimientos. 
 
