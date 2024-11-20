@@ -1104,7 +1104,7 @@ Padre e Hijo
 
 APORTES
 Psicopatología de la Neurosis
-`,"hsl(36, 85%, 70%)",""],["Escuela conductual",`COMO VEN A LAS PERSONAS
+`,"hsl(36, 85%, 70%)","Escuela conductual,Escuela biológica,Escuela holística"],["Escuela conductual",`COMO VEN A LAS PERSONAS
 Como una pagina en blanco, que a través del aprendizaje, va llenando cada una de las paginas y van construyendo el psiquismo, a través del ensayo y el error y de impulsos condicionados determinados
 
 COMO VEN A LA PATOLOGIA
@@ -1118,7 +1118,7 @@ Maestro - Alumno
 
 APORTES
 Modificación Conductual, Terapias, TCC
-`,"hsl(48, 85%, 70%)",""],["Escuela fenomenológica existencial",`COMO VEN A LAS PERSONAS
+`,"hsl(48, 85%, 70%)","Escuela psicodinámica,Escuela biológica,Escuela holística"],["Escuela fenomenológica existencial",`COMO VEN A LAS PERSONAS
 Con la capacidad de desarrollar un aquí y ahora pleno con el cual el individuo pueda conocer sus limites y llegar a la plenitud
 
 COMO VEN A LA PATOLOGIA
@@ -1132,7 +1132,7 @@ Igual a igual
 
 APORTES
 Grandes pensadores que han influido en la psicopatología
-`,"hsl(60, 85%, 70%)",""],["Escuela biológica",`COMO VEN A LAS PERSONAS
+`,"hsl(60, 85%, 70%)","Escuela conductual,Escuela biológica,Escuela holística"],["Escuela biológica",`COMO VEN A LAS PERSONAS
 Como un conjunto de células organizadas en sistemas y órganos determinados y el conjunto de los mismos va formando al ser humano, tanto en lo psíquico como en lo no psíquico
 
 COMO VEN A LA PATOLOGIA
@@ -1146,7 +1146,7 @@ Especialista- Paciente
 
 APORTES
 Estudios auxiliares como los ECG, TAC, Investigaciones genéticas, investigaciones del sistema cerebral y sus funciones cerebrales etc.
-`,"hsl(72, 85%, 70%)",""],["Escuela holística",`COMO VEN A LAS PERSONAS
+`,"hsl(72, 85%, 70%)","Escuela conductual,Escuela psicodinámica,Escuela holística"],["Escuela holística",`COMO VEN A LAS PERSONAS
 Conjunto de aspectos biológicos, psicológicos y sociales, y ese conjunto en si genera la salud o la enfermedad
 
 COMO VEN A LA PATOLOGIA
@@ -1161,7 +1161,7 @@ Experto - Paciente
 
 APORTES
 Definición de Salud y Enfermedad utilizado  por la OMS
-`,"hsl(84, 85%, 70%)",""],["Entrevista","Es una relación entre dos o más personas, que conlleva una influencia reciproca y unos objetivos específicos, en la que uno solicita ayuda y otro ofrece la solución, lo que configura una diferencia explícita de roles","hsl(96, 85%, 70%)",""],["Tipos de entrevistas",`Activa
+`,"hsl(84, 85%, 70%)","Escuela conductual,Escuela biológica,Escuela psicodinámica"],["Entrevista","Es una relación entre dos o más personas, que conlleva una influencia reciproca y unos objetivos específicos, en la que uno solicita ayuda y otro ofrece la solución, lo que configura una diferencia explícita de roles","hsl(96, 85%, 70%)",""],["Tipos de entrevistas",`Activa
 Pasiva
 Mixta
 
@@ -1172,26 +1172,11 @@ Semiestructurada
 Individual
 Grupal
 Familiar
-Pareja
-
-
-
-
-
-
-
-`,"hsl(108, 85%, 70%)",""],["Entrevista Activa","El entrevistador adopta un rol predominantemente participativo, realizando preguntas directas, mostrando interés activo en las respuestas del entrevistado y facilitando la comunicación para obtener información relevante.\v","hsl(120, 85%, 70%)",""],["Entrevista Pasiva","El entrevistador toma un papel más reservado y observador, permitiendo al entrevistado dirigir la conversación y expresarse con mayor libertad.\v","hsl(132, 85%, 70%)",""],["Entrevista Mixta","Combina elementos de ambas modalidades. El entrevistador puede participar activamente en algunos momentos, mientras que en otros adopta un enfoque más pasivo, permitiendo que el entrevistado tome la iniciativa.","hsl(144, 85%, 70%)",""],["Entrevista Estructurada","Sigue un formato rígido, con preguntas especificas y orden preestablecido. Se utiliza para recopilar datos de manera consistente y objetiva.","hsl(156, 85%, 70%)",""],["Entrevista No Estructurada","Se caracteriza por su flexibilidad y apertura. El entrevistador no sigue un guion preestablecido y permite que la conversación fluya de manera natural, buscando una comprensión profunda del entrevistado.","hsl(168, 85%, 70%)",""],["Entrevista Semiestructurada","Combina preguntas predefinidas con espacio para que el entrevistador explore temas en profundidad. Ofrece flexibilidad para indagar sobre aspectos relevantes que puedan surgir durante la entrevista.","hsl(180, 85%, 70%)",""],["Entrevista Individual","Se lleva a cabo entre un entrevistador y un único entrevistado. Es común en contextos clínicos, de selección de personal o de investigación.","hsl(192, 85%, 70%)",""],["Entrevista Grupal","involucra a más de un entrevistado en una misma sesión. Se utiliza para explorar dinámicas grupales, opiniones colectivas y temas que pueden surgir en un contexto de interacción social.\v","hsl(204, 85%, 70%)",""],["Entrevista Familiar","En este tipo de entrevista, varios miembros de una familia participan en la conversación, con el objetivo de explorar dinámicas familiares, relaciones y resolver conflictos.","hsl(216, 85%, 70%)",""],["Entrevista de Pareja","Se lleva a cabo entre dos personas que forman una pareja. El objetivo suele ser explorar la dinámica de la relación, resolver conflictos o discutir temas importantes.","hsl(228, 85%, 70%)",""],["Entrevista Clínica","Utilizada en el ámbito de la psicología y la psiquiatría, busca explorar la salud mental, identificar síntomas, establecer diagnósticos y elaborar planes de tratamiento","hsl(240, 85%, 70%)",""],["Entrevista de Evaluación Laboral"," Utilizada en procesos de selección de personal, busca evaluar la idoneidad de un candidato para un puesto de trabajo, explorar su experiencia laboral, habilidades y competencias.","hsl(251.99999999999997, 85%, 70%)",""],["Entrevista de Investigación Cualitativa ","Utilizada en estudios de investigación, pretende entender y analizar las percepciones, creencias y experiencias de los participantes sobre un tema específico.","hsl(264, 85%, 70%)",""],["Caracteristicas de la entrevista",`Técnica previa al diagnóstico
+Pareja`,"hsl(108, 85%, 70%)",""],["Entrevista Activa","El entrevistador adopta un rol predominantemente participativo, realizando preguntas directas, mostrando interés activo en las respuestas del entrevistado y facilitando la comunicación para obtener información relevante.\v","hsl(120, 85%, 70%)",""],["Entrevista Pasiva","El entrevistador toma un papel más reservado y observador, permitiendo al entrevistado dirigir la conversación y expresarse con mayor libertad.\v","hsl(132, 85%, 70%)",""],["Entrevista Mixta","Combina elementos de ambas modalidades. El entrevistador puede participar activamente en algunos momentos, mientras que en otros adopta un enfoque más pasivo, permitiendo que el entrevistado tome la iniciativa.","hsl(144, 85%, 70%)",""],["Entrevista Estructurada","Sigue un formato rígido, con preguntas especificas y orden preestablecido. Se utiliza para recopilar datos de manera consistente y objetiva.","hsl(156, 85%, 70%)",""],["Entrevista No Estructurada","Se caracteriza por su flexibilidad y apertura. El entrevistador no sigue un guion preestablecido y permite que la conversación fluya de manera natural, buscando una comprensión profunda del entrevistado.","hsl(168, 85%, 70%)",""],["Entrevista Semiestructurada","Combina preguntas predefinidas con espacio para que el entrevistador explore temas en profundidad. Ofrece flexibilidad para indagar sobre aspectos relevantes que puedan surgir durante la entrevista.","hsl(180, 85%, 70%)",""],["Entrevista Individual","Se lleva a cabo entre un entrevistador y un único entrevistado. Es común en contextos clínicos, de selección de personal o de investigación.","hsl(192, 85%, 70%)",""],["Entrevista Grupal","involucra a más de un entrevistado en una misma sesión. Se utiliza para explorar dinámicas grupales, opiniones colectivas y temas que pueden surgir en un contexto de interacción social.\v","hsl(204, 85%, 70%)",""],["Entrevista Familiar","En este tipo de entrevista, varios miembros de una familia participan en la conversación, con el objetivo de explorar dinámicas familiares, relaciones y resolver conflictos.","hsl(216, 85%, 70%)",""],["Entrevista de Pareja","Se lleva a cabo entre dos personas que forman una pareja. El objetivo suele ser explorar la dinámica de la relación, resolver conflictos o discutir temas importantes.","hsl(228, 85%, 70%)",""],["Entrevista Clínica","Utilizada en el ámbito de la psicología y la psiquiatría, busca explorar la salud mental, identificar síntomas, establecer diagnósticos y elaborar planes de tratamiento","hsl(240, 85%, 70%)",""],["Entrevista de Evaluación Laboral"," Utilizada en procesos de selección de personal, busca evaluar la idoneidad de un candidato para un puesto de trabajo, explorar su experiencia laboral, habilidades y competencias.","hsl(251.99999999999997, 85%, 70%)",""],["Entrevista de Investigación Cualitativa ","Utilizada en estudios de investigación, pretende entender y analizar las percepciones, creencias y experiencias de los participantes sobre un tema específico.","hsl(264, 85%, 70%)",""],["Caracteristicas de la entrevista",`Técnica previa al diagnóstico
 Establece un punto de partida en la relación terapéutica
 Se desarrolla en un espacio y tiempo prefijado
 Tiene intencionalidad y finalidad
-Habitualmente parte del desconocimiento mutuo
-
-
-
-
-
-
-`,"hsl(276, 85%, 70%)",""],["Objetivos de la entrevista",`Establecer rapport (clima confiable)
+Habitualmente parte del desconocimiento mutuo.`,"hsl(276, 85%, 70%)",""],["Objetivos de la entrevista",`Establecer rapport (clima confiable)
 Obtener información lo más exacta y válida posible
 Atender la comunicación verbal y no verbal
 Contener la angustia del entrevistado
@@ -1232,7 +1217,7 @@ Plan de tratamiento`,"hsl(336, 85%, 70%)",""],["Atención",`Capacidad de dirigir
 `,"hsl(120, 85%, 70%)","Mecanismos neuropsicologicos de la sensopercepcion,Mecanismos neuropsicológicos del pensamiento,Mecanismos neuropsicologicos de la psicomotricidad"],["Exploración psicopatológica de la atención",`Días de la semana y meses del año de corrido y del revés. Resta de 100 – 7 por lo menos en cinco restas
 
 De corrido se explora Atención y del revés se explora Concentración, con la resta se explora ambos
-`,"hsl(132, 85%, 70%)",""],["Orientacion","Capacidad de ubicarse adecuadamente en el Tiempo; Espacio (Lugar) y con respecto a uno mismo (Persona).","hsl(144, 85%, 70%)",""],["Tipos de orientación",`1- TIEMPO: día, mes, año. Momento del día (día y noche); Época del año
+`,"hsl(132, 85%, 70%)","Exploración psicopatologica de la afectividad,Exploración psicopatologica de la sensopercepcion,Exploracion psicopatologica del pensamiento"],["Orientacion","Capacidad de ubicarse adecuadamente en el Tiempo; Espacio (Lugar) y con respecto a uno mismo (Persona).","hsl(144, 85%, 70%)",""],["Tipos de orientación",`1- TIEMPO: día, mes, año. Momento del día (día y noche); Época del año
 
 2- ESPACIO: que País; Ciudad (Macroespacio); Lugar donde esta, sector del mismo ( Microespacio)
 
@@ -1333,7 +1318,7 @@ En un contexto clínico, puede asociarse con diferentes condiciones, como la ans
 Las personas pueden mostrar un desapego o indiferencia hacia el sufrimiento de los demás, falta de arrepentimiento por el daño causado a otros, y dificultad para comprender la gravedad de ciertos comportamientos dañinos o inapropiados.
 `,"hsl(288, 85%, 70%)",""],["Exploración psicopatológica de la conciencia",`Se explora a través de la observación clínica y la entrevista evaluando todas las funciones que permiten tener conocimiento del mundo externo y psíquico (atención, orientación, Sensopercepcion, pensamiento, lenguaje, juicio  y afecto).
 
-Esta exploración busca identificar y comprender cualquier alteración en los niveles de conciencia, así como examinar la presencia de síntomas específicos que puedan estar relacionados con trastornos psiquiátricos o neurológicos.`,"hsl(300, 85%, 70%)",""],["Lenguaje",`Es la función mental por la que un emisor transmite a un receptor códigos predeterminados.
+Esta exploración busca identificar y comprender cualquier alteración en los niveles de conciencia, así como examinar la presencia de síntomas específicos que puedan estar relacionados con trastornos psiquiátricos o neurológicos.`,"hsl(300, 85%, 70%)","Exploración psicopatologica de la afectividad,Exploración psicopatologica de la sensopercepcion,Exploracion psicopatologica del pensamiento"],["Lenguaje",`Es la función mental por la que un emisor transmite a un receptor códigos predeterminados.
 
 Es la herramienta que permite expresar las emociones, pensamientos, ideas y sentimientos que experimentan las personas, posibilitando la comunicación entre estas, haciendo que sea un instrumento fundamental para el ser humano.`,"hsl(312, 85%, 70%)",""],["Mecanismos neuropsicológicos del lenguaje",`a) Áreas del cerebro:
 Área Motora (Expresión) Prefrontal O Área 41 De Broca.
@@ -1453,23 +1438,20 @@ Es una emoción natural que se caracteriza por experimentar una sensación desag
 
 Sin embargo en el otro caso, uno siente un estado de malestar intenso en el cual puede identificar perfectamente la situación que genera el cuadro.`,"hsl(251.99999999999997, 85%, 70%)","Diferencia entre TID y trance,Diferencia entre ataque de pánico y trastorno de pánico,Diferencias entre esquizofrenia y psicosis esquizoafectivas"],["Irritabilidad",`Estado de ánimo caracterizado por respuestas exageradas o excesivas frente a estímulos irritantes o situaciones estresantes.
 
-Es un estado displacentero que genera un malestar que casi siempre se acompaña con reactividad psicomotora y alteración de conducta y sobre todo de relacionamiento, es típico de los pacientes en estado de abstinencia por alcohol, drogas, cocaína., anfetamina, marihuana. También se presenta en pacientes psicóticos y en los trastornos de personalidad.`,"hsl(264, 85%, 70%)",""],["Anhedonia","Es la disminución o la desaparición de la capacidad para obtener placer en circunstancias que con anterioridad sí lo procuraban. Es uno de los síntomas depresivos por excelencia","hsl(276, 85%, 70%)",""],["Tenacidad","Consiste en la persistencia durante un tiempo extremadamente prolongado de una emoción determinada, condicionando así por un período demasiado largo el estado afectivo del sujeto. Es decir, persiste el mismo estado anímico aunque ya no sea para nada útil o no sea para nada adaptativo. Se presenta con mayor frecuencia en el autismo y retraso mental.","hsl(288, 85%, 70%)",""],["Liabilidad afectiva",`Cambio brusco del estado de animo ya sea de agradable a desagradable, o de desagradable a agradable sin ningún motivo determinado.
+Es un estado displacentero que genera un malestar que casi siempre se acompaña con reactividad psicomotora y alteración de conducta y sobre todo de relacionamiento, es típico de los pacientes en estado de abstinencia por alcohol, drogas, cocaína., anfetamina, marihuana. También se presenta en pacientes psicóticos y en los trastornos de personalidad.`,"hsl(264, 85%, 70%)",""],["Anhedonia","Es la disminución o la desaparición de la capacidad para obtener placer en circunstancias que con anterioridad sí lo procuraban. Es uno de los síntomas depresivos por excelencia","hsl(276, 85%, 70%)",""],["Tenacidad afectiva","Consiste en la persistencia durante un tiempo extremadamente prolongado de una emoción determinada, condicionando así por un período demasiado largo el estado afectivo del sujeto. Es decir, persiste el mismo estado anímico aunque ya no sea para nada útil o no sea para nada adaptativo. Se presenta con mayor frecuencia en el autismo y retraso mental.","hsl(288, 85%, 70%)","Liabilidad afectiva,Ambivalencia afectiva,Incontinencia afectiva"],["Liabilidad afectiva",`Cambio brusco del estado de animo ya sea de agradable a desagradable, o de desagradable a agradable sin ningún motivo determinado.
 El paciente cambia bruscamente de afecto sin motivo alguno. La labilidad emocional dura casi siempre poco tiempo (segundos-minutos), aunque puede reaparecer varias veces en el mismo paciente.
-Se presenta con mayor frecuencia en: Psicosis, Tx. Depresivos, Tx de personalidad.`,"hsl(300, 85%, 70%)",""],["Incontinencia afectiva",`Cambio brusco de polaridad afectiva, ya sea de agradable a desagradable, pero siempre existe un motivo determinado.
+Se presenta con mayor frecuencia en: Psicosis, Tx. Depresivos, Tx de personalidad.`,"hsl(300, 85%, 70%)","Aplanamiento afectivo,Ambivalencia afectiva,Incontinencia afectiva"],["Incontinencia afectiva",`Cambio brusco de polaridad afectiva, ya sea de agradable a desagradable, pero siempre existe un motivo determinado.
 
 Estado emocional que se caracteriza por la incapacidad para controlar las manifestaciones afectivas, aunque se intente de forma consciente.
 La persona hace esfuerzos para no manifestar su tristeza, pero termina por estallar en sollozos o llorar sin consuelo.
 
-Se observa habitualmente en la depresión, en la demencia, y en algunos trastornos de ansiedad, también en situaciones de duelo, intoxicaciones y cuadros psicóticos, trastornos de la personalidad de tipo histriónico y narcisista
+Se observa habitualmente en la depresión, en la demencia, y en algunos trastornos de ansiedad, también en situaciones de duelo, intoxicaciones y cuadros psicóticos, trastornos de la personalidad de tipo histriónico y narcisista.`,"hsl(312, 85%, 70%)","Aplanamiento afectivo,Ambivalencia afectiva,Liabilidad afectiva"],["Ambivalencia afectiva",`Se denomina así la coexistencia de sentimientos positivos y negativos con respecto a un mismo objeto, contenido vivencial o representación.
 
-
-`,"hsl(312, 85%, 70%)",""],["Ambivalencia afectiva",`Se denomina así la coexistencia de sentimientos positivos y negativos con respecto a un mismo objeto, contenido vivencial o representación.
-
-Es decir, dos afectos contrapuestos uno a otro, hacia una misma persona en un mismo momento. Típico de la esquizofrenia.`,"hsl(324, 85%, 70%)",""],["Aplanamiento afectivo",`Consiste en la imposibilidad del sujeto de reaccionar ante los objetos, situaciones y personas.
+Es decir, dos afectos contrapuestos uno a otro, hacia una misma persona en un mismo momento. Típico de la esquizofrenia.`,"hsl(324, 85%, 70%)","Aplanamiento afectivo,Liabilidad afectiva,Incontinencia afectiva"],["Aplanamiento afectivo",`Consiste en la imposibilidad del sujeto de reaccionar ante los objetos, situaciones y personas.
 
 Quienes lo padecen, presentan incapacidad afectiva y, por lo tanto, incapacidad de expresar las emociones verbalmente.
 
-El paciente tiene una falta total de tonalidad afectiva o de resonancia emocional en forma constante, ejemplo: uno puede hablar del cumpleaños de un amigo y al rato cambiar de tema y hablar del fallecimiento de un ser querido con la misma tonalidad, no existe cambio alguno.`,"hsl(336, 85%, 70%)",""],["Perplejidad",`Estado de extrañeza o extrañamiento afectivo como si uno no estuviera entendiendo la situación que esta pasando.
+El paciente tiene una falta total de tonalidad afectiva o de resonancia emocional en forma constante, ejemplo: uno puede hablar del cumpleaños de un amigo y al rato cambiar de tema y hablar del fallecimiento de un ser querido con la misma tonalidad, no existe cambio alguno.`,"hsl(336, 85%, 70%)","Liabilidad afectiva,Ambivalencia afectiva,Incontinencia afectiva"],["Perplejidad",`Estado de extrañeza o extrañamiento afectivo como si uno no estuviera entendiendo la situación que esta pasando.
 
 Estado afectivo caracterizado por angustia, extrañeza y asombro frente a situaciones extrañas o nuevas.
 Típico de los cuadros disociativos, uso de sustancias, éxtasis, cocaína y morfina.
@@ -1528,11 +1510,11 @@ Alucionaciones hipnagogicas.
 Pseudoalucinaciones.
 Percepción delirante.`,"hsl(216, 85%, 70%)",""],["Ilusión",`Distorsión de una imagen real, se refiere a una percepción errónea o distorsionada de un estímulo sensorial real, que se interpreta de manera incorrecta por el observador.
 
-Se basan en estímulos reales pero son malinterpretadas.`,"hsl(228, 85%, 70%)",""],["Alucinación",`Se refiere a una percepción sensorial que ocurre en ausencia de un estímulo externo apropiado. Esto significa que una persona percibe algo que no está presente en la realidad.
+Se basan en estímulos reales pero son malinterpretadas.`,"hsl(228, 85%, 70%)","Alucinación,Alucinosis,Pseudoalucinaciones"],["Alucinación",`Se refiere a una percepción sensorial que ocurre en ausencia de un estímulo externo apropiado. Esto significa que una persona percibe algo que no está presente en la realidad.
 
 Según Ball: la alucinación es una alteración perceptiva producto de la elaboración de un juicio interferido y desviado, que crea una viva representación originada en una imagen del recuerdo o de la fantasía; proyectada al exterior y es aceptada como real como producto de una captación sensorial. O sea es la PERCEPCION SIN OBJETO. 
 
-Pueden ocurrir en cualquiera de los sentidos (auditivas, visuales, táctiles, etc.) y pueden ser un síntoma de varios trastornos psiquiátricos y neurológicos.`,"hsl(240, 85%, 70%)",""],["Caracteristicas de la alucinación",`La imagen, no tiene corporeidad o sea no tiene forma ni cuerpo.
+Pueden ocurrir en cualquiera de los sentidos (auditivas, visuales, táctiles, etc.) y pueden ser un síntoma de varios trastornos psiquiátricos y neurológicos.`,"hsl(240, 85%, 70%)","Ilusión,Alucinosis,Pseudoalucinaciones"],["Caracteristicas de la alucinación",`La imagen, no tiene corporeidad o sea no tiene forma ni cuerpo.
 
 Si tiene Extrayección, el paciente lo percibe como si viniera de afuera.
 
@@ -1573,7 +1555,7 @@ Es un estado alucinatorio persistente, con la característica de que no despiert
 
 En efecto el individuo reconoce el carácter patológico del fenómeno, aceptando a las alucinaciones como lo que son y no como realidades, es decir que las reconoce como consecuencia de una determinada perturbación.
 
-Típico del alcoholismo sobre todo en los trastornos por abstinencia alcohólica, intoxicaciones, estados febriles, infecciones, traumatismos de cráneo.`,"hsl(0, 85%, 70%)",""],[" Alucinaciones hipnagógicas",`Ocurren en el momento previo al sueño, durante la transición entre la vigilia y el sueño, también conocida como fase hipnagógica. Suelen involucrar sensaciones visuales, auditivas, táctiles u otras percepciones sensoriales.
+Típico del alcoholismo sobre todo en los trastornos por abstinencia alcohólica, intoxicaciones, estados febriles, infecciones, traumatismos de cráneo.`,"hsl(0, 85%, 70%)","Ilusión,Alucinación,Pseudoalucinaciones"],[" Alucinaciones hipnagógicas",`Ocurren en el momento previo al sueño, durante la transición entre la vigilia y el sueño, también conocida como fase hipnagógica. Suelen involucrar sensaciones visuales, auditivas, táctiles u otras percepciones sensoriales.
 
 Se pueden considerar alucinaciones normales, pero si son muy repetitivas y continuas si son patológicas.
 
@@ -1583,7 +1565,7 @@ No tiene extrayección, no tiene corporeidad, y puede ser modificada por la volu
 
 Es la representación psíquica de imágenes intuitivas o eidéticas que surgen en forma súbita en el campo de la  conciencia.
 
-El sujeto tiene perfecta noción de su origen y formación intrapsíquica, pero un estado de ánimo especial, desencadenado por poderosas corrientes afectivas, hace que a continuación le dé extrayección y la proyecte al campo sensoperceptivo.`,"hsl(24, 85%, 70%)",""],["Percepción delirante",`Se refiere a la interpretación errónea o irracional de la realidad, caracterizada por una creencia fija e inamovible que no se ve afectada por la evidencia en contrario.
+El sujeto tiene perfecta noción de su origen y formación intrapsíquica, pero un estado de ánimo especial, desencadenado por poderosas corrientes afectivas, hace que a continuación le dé extrayección y la proyecte al campo sensoperceptivo.`,"hsl(24, 85%, 70%)","Ilusión,Alucinosis,Alucinación"],["Percepción delirante",`Se refiere a la interpretación errónea o irracional de la realidad, caracterizada por una creencia fija e inamovible que no se ve afectada por la evidencia en contrario.
 
 Es precedida por una desviación del juicio, que dificulta la  interpretación y comprensión correcta de las cosas e induce a la falsa interpretación de los hechos reales. 
 Esas falsas interpretaciones son motivadas por vivencias subsiguientes a problemas de índole ideo afectivo cuya gran exaltación (angustia, desconfianza, recelo) propicia  el error perceptivo.
@@ -1787,18 +1769,18 @@ Son frecuentes en el síndrome de Tourette, y pueden estar relacionados con el e
 
 Contracción brusca de ciertos grupos musculares como por ejemplo la contractura del cuello, puede ser consecuencia de una lesión, inmovilización prolongada, o enfermedades neurológicas.
 
-Ejemplo: ansiedad, uso de sustancias toxicas como cocaína, anfetamina, cocaína.`,"hsl(120, 85%, 70%)",""],[" Mioclonías",`Contractura de pequeños grupos musculares que se contraen y se relajan continuamente.
+Ejemplo: ansiedad, uso de sustancias toxicas como cocaína, anfetamina, cocaína.`,"hsl(120, 85%, 70%)","Mioclonías,Fibrilación,Fasciculación"],["Mioclonías",`Contractura de pequeños grupos musculares que se contraen y se relajan continuamente.
 Sacudidas breves, rápidas e involuntarias de un músculo o grupo de músculos.
 
 Pueden ser fisiológicas (como el hipo), epilépticas o relacionadas con trastornos metabólicos y neurológicos.
 
-Ejemplo: cansancio, estrés intenso, agotamiento, uso exagerado de sustancias.`,"hsl(132, 85%, 70%)",""],["Fibrilación",`Contracciones espontáneas de fibras musculares individuales que no están sincronizadas y no son visibles a simple vista debido a su pequeña amplitud.
+Ejemplo: cansancio, estrés intenso, agotamiento, uso exagerado de sustancias.`,"hsl(132, 85%, 70%)","Contractura,Fibrilación,Fasciculación"],["Fibrilación",`Contracciones espontáneas de fibras musculares individuales que no están sincronizadas y no son visibles a simple vista debido a su pequeña amplitud.
 
-Contracciones desorganizadas y rápidas de las fibras musculares, que pueden ser de origen cardíaco o neuromuscular. En el contexto cardíaco, puede indicar arritmias graves; en el contexto neuromuscular, puede relacionarse con lesiones nerviosas.`,"hsl(144, 85%, 70%)",""],["Fasciculación",`Contracciones involuntarias de unidades motoras completas (un grupo de fibras musculares inervadas por una única neurona motora). Son visibles a simple vista como movimientos pequeños y rápidos bajo la piel.
+Contracciones desorganizadas y rápidas de las fibras musculares, que pueden ser de origen cardíaco o neuromuscular. En el contexto cardíaco, puede indicar arritmias graves; en el contexto neuromuscular, puede relacionarse con lesiones nerviosas.`,"hsl(144, 85%, 70%)","Contractura,Mioclonías,Fasciculación"],["Fasciculación",`Contracciones involuntarias de unidades motoras completas (un grupo de fibras musculares inervadas por una única neurona motora). Son visibles a simple vista como movimientos pequeños y rápidos bajo la piel.
 
 Movimientos rápidos e involuntarios de fibras musculares individuales o grupos pequeños de fibras que son visibles bajo la piel. (movimiento de parpados)
 
-Suelen ser benignas y pueden ser causadas por fatiga, estrés, consumo de cafeína o pueden ser idiopáticas (sin causa conocida). En algunos casos, pueden estar asociadas con enfermedades neurológicas como la esclerosis lateral amiotrófica (ELA).`,"hsl(156, 85%, 70%)",""],["Exploracion psicopatologica de la psicomotricidad",`Se centra en evaluar las características motoras y conductuales del paciente, observando posibles alteraciones en el movimiento, la postura y el tono muscular que puedan indicar trastornos neurológicos o psiquiátricos.
+Suelen ser benignas y pueden ser causadas por fatiga, estrés, consumo de cafeína o pueden ser idiopáticas (sin causa conocida). En algunos casos, pueden estar asociadas con enfermedades neurológicas como la esclerosis lateral amiotrófica (ELA).`,"hsl(156, 85%, 70%)","Contractura,Fibrilación,Mioclonías"],["Exploracion psicopatologica de la psicomotricidad",`Se centra en evaluar las características motoras y conductuales del paciente, observando posibles alteraciones en el movimiento, la postura y el tono muscular que puedan indicar trastornos neurológicos o psiquiátricos.
 
 El entrevistador intervendrá durante la entrevista de dos formas: 
 
@@ -2528,13 +2510,13 @@ Hay que poner en claro que este termino no define la excitación sexual al obser
 
 Esta actividad erótica se puede practicar individual o colectivamente.`,"hsl(12, 85%, 70%)",""],["Escatología telefónica",`La persona se excita o siente placer sexual llamando por teléfono a otra persona para hablar de forma sexual.
 
-Comprende la excitación derivada de las llamadas telefónicas en las que se utilizan lenguaje sexual u obsceno.`,"hsl(24, 85%, 70%)",""],["La disforia de género ",`Es un diagnóstico clínico que describe la profunda incomodidad, aflicción o angustia que una persona puede experimentar debido a una incongruencia entre su identidad de género (cómo se percibe a sí misma) y el sexo asignado al nacer (sexo biológico). Es decir, cuando su sexo biológico no coincide con su identidad de género.
+Comprende la excitación derivada de las llamadas telefónicas en las que se utilizan lenguaje sexual u obsceno.`,"hsl(24, 85%, 70%)",""],["La disforia de género",`Es un diagnóstico clínico que describe la profunda incomodidad, aflicción o angustia que una persona puede experimentar debido a una incongruencia entre su identidad de género (cómo se percibe a sí misma) y el sexo asignado al nacer (sexo biológico). Es decir, cuando su sexo biológico no coincide con su identidad de género.
 
 Esta experiencia puede causar un malestar emocional significativo y puede afectar varios aspectos de la vida de una persona, incluyendo su bienestar mental, emocional, y social.
 
 La identidad de género es el sentido interno y profundo de una persona de ser hombre, mujer, una mezcla de ambos, o ninguno, y puede coincidir o no con el sexo asignado al nacer. Cuando hay una discrepancia entre el sexo asignado al nacer y la identidad de género de una persona, esto puede llevar a experiencias de disforia de género.
 
-La disforia de género reemplaza el término antiguo de "trastorno de identidad de género" para evitar la patologización de la identidad transgénero.`,"hsl(36, 85%, 70%)",""],["Criterios Diagnósticos de la disforia de genero",`El diagnóstico requiere la presencia de una incongruencia significativa entre el género experimentado y el sexo asignado al nacer durante al menos 6 meses, acompañada de angustia significativa o dificultades en la vida social, laboral o personal.
+La disforia de género reemplaza el término antiguo de "trastorno de identidad de género" para evitar la patologización de la identidad transgénero.`,"hsl(36, 85%, 70%)","Reasignación de género,Transgénero,Transexual"],["Criterios Diagnósticos de la disforia de genero",`El diagnóstico requiere la presencia de una incongruencia significativa entre el género experimentado y el sexo asignado al nacer durante al menos 6 meses, acompañada de angustia significativa o dificultades en la vida social, laboral o personal.
 
 Criterios para adultos y adolescentes:
 Deseo intenso de ser del género opuesto.
@@ -2557,13 +2539,13 @@ Las más comunes son heterosexual, homosexual (gay/lesbiana), bisexual, asexual,
 
 Es el proceso médico, legal y social mediante el cual una persona transgénero ajusta su cuerpo y/o su identidad a su género sentido.
 
-Puede incluir intervenciones hormonales, quirúrgicas y el cambio de documentos legales.`,"hsl(96, 85%, 70%)",""],["Transgénero",`Se refiere al amplio espectro de sujetos que de forma transitoria o permanente se identifica con un género diferente de su género natal.
+Puede incluir intervenciones hormonales, quirúrgicas y el cambio de documentos legales.`,"hsl(96, 85%, 70%)","La disforia de género,Transgénero,Transexual"],["Transgénero",`Se refiere al amplio espectro de sujetos que de forma transitoria o permanente se identifica con un género diferente de su género natal.
 
-Se refiere a las personas cuya identidad de género no coincide con el sexo asignado al nacer.`,"hsl(108, 85%, 70%)",""],["Transexual",`Denota a un sujeto que busca, o que ha experimentado, una transición social de varón a mujer o de mujer a varón, lo que en muchos casos, pero no en todos, también conlleva una transición somática mediante un tratamiento continuo con hormonas del sexo opuesto y cirugía genital (cirugía de reasignación sexual).
+Se refiere a las personas cuya identidad de género no coincide con el sexo asignado al nacer.`,"hsl(108, 85%, 70%)","La disforia de género,Reasignación de género,Transexual"],["Transexual",`Denota a un sujeto que busca, o que ha experimentado, una transición social de varón a mujer o de mujer a varón, lo que en muchos casos, pero no en todos, también conlleva una transición somática mediante un tratamiento continuo con hormonas del sexo opuesto y cirugía genital (cirugía de reasignación sexual).
 
 Es un término que hace referencia a aquellas personas que deciden modificar su cuerpo mediante procedimientos médicos y/o quirúrgicos (hormonas, cirugías) para que su cuerpo se alinee con su identidad de género.
 
-Si bien este termino aún se utiliza, el término "transgénero" es más inclusivo y ampliamente aceptado actualmente.`,"hsl(120, 85%, 70%)",""],["Los trastornos alimentarios",`Son condiciones psicológicas graves relacionadas con comportamientos alimentarios persistentes, que afectan negativamente la salud física, el funcionamiento social o laboral, y el bienestar emocional.
+Si bien este termino aún se utiliza, el término "transgénero" es más inclusivo y ampliamente aceptado actualmente.`,"hsl(120, 85%, 70%)","La disforia de género,Transgénero,Reasignación de género"],["Los trastornos alimentarios",`Son condiciones psicológicas graves relacionadas con comportamientos alimentarios persistentes, que afectan negativamente la salud física, el funcionamiento social o laboral, y el bienestar emocional.
 
 Están caracterizados por una preocupación excesiva por el peso, la figura corporal y la alimentación, lo que lleva a hábitos alimentarios extremos y perjudiciales.
 
