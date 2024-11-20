@@ -3003,9 +3003,7 @@ Aportes de Maturana y Varela
 Para entender a un sistema hay que tener en cuenta sus elementos y propiedades y también las interacciones entre ellos y las propiedades que resultan de su totalidad.
 
 «Conjunto de objetos así como de relaciones entre los objetos y sus atributos. Los objetos son componentes de los sistemas y los atributos son las propiedades de los objetos y las relaciones mantienen unido al sistema»
-`,"hsl(288, 85%, 70%)",""],["Conceptos relacionados al sistema",`Conceptos relacionados al sistema
-
-Medio ambiente o subsistema o suprasistema: lugar donde el sistema se desarrolla.
+`,"hsl(288, 85%, 70%)",""],["Conceptos relacionados al sistema",`Medio ambiente o subsistema o suprasistema: lugar donde el sistema se desarrolla.
 
 Subsistemas: componentes del sistema.
 
