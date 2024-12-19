@@ -798,66 +798,67 @@ Las hormonas que controlan la prolactina, que le dicen a la glándula pituitaria
 La hormona liberadora de tirotropina, que activa la tiroides, liberando las hormonas que regulan el metabolismo, los niveles de energía y el crecimiento del desarrollo.
 
 Las hormonas de crecimiento, que le dicen a la glándula pituitaria que aumente o disminuya su número en el cuerpo.
-`,"hsl(240, 85%, 70%)",""],["Hipófisis",`Es una estructura ubicada en la silla turca que tiene forma de “garbanzo” localizada debajo del cerebro, de pequeño tamaño (1 cm de diámetro y 1g de peso. También es llamada “GLANDULA PITUITARIA O MAESTRA” ya que controla la mayoría de las glándulas del organismo.
+`,"hsl(240, 85%, 70%)",""],["La hormona antidiurética","Aumenta la cantidad de agua que los riñones absorben en la sangre.","hsl(251.99999999999997, 85%, 70%)",""],["Hormonas liberadoras de corticotropina","Ayudan a regular el metabolismo y la respuesta inmune al trabajar con la glándula pituitaria y la glándula suprarrenal para liberar ciertos esteroides.","hsl(264, 85%, 70%)",""],["Las hormonas liberadoras de gonadotropina","Le dicen a la glándula pituitaria que libere hormonas que mantienen funcionando a los órganos sexuales.","hsl(276, 85%, 70%)",""],["La oxitocina","Participa en muchos procesos, incluida la liberación de la leche materna, la temperatura corporal y los ciclos de sueño de la madre.","hsl(288, 85%, 70%)",""],["Las hormonas que controlan la prolactina","Le dicen a la glándula pituitaria que comience o suspenda la producción de leche materna en las madres lactantes.","hsl(300, 85%, 70%)",""],["La hormona liberadora de tirotropina","Activa la tiroides, liberando las hormonas que regulan el metabolismo, los niveles de energía y el crecimiento del desarrollo.","hsl(312, 85%, 70%)",""],["Las hormonas de crecimiento",`Le dicen a la glándula pituitaria que aumente o disminuya su número en el cuerpo.
+`,"hsl(324, 85%, 70%)",""],["Hipófisis",`Es una estructura ubicada en la silla turca que tiene forma de “garbanzo” localizada debajo del cerebro, de pequeño tamaño (1 cm de diámetro y 1g de peso. También es llamada “GLANDULA PITUITARIA O MAESTRA” ya que controla la mayoría de las glándulas del organismo.
 
 Es controlada por el hipotálamo a través del tallo hipofisiario
 
 Tiene dos porciones (adenohipofisis y neurohipofisis) 
 	
-`,"hsl(251.99999999999997, 85%, 70%)",""],["Secreciones de La adenohipófisis ",`HORMONA DE CRECIMIENTO (GH)
+`,"hsl(336, 85%, 70%)",""],["Secreciones de La adenohipófisis ",`HORMONA DE CRECIMIENTO (GH)
 ADENOCORTICOTROFINA (ACTH), 
 TIROTROFINA (TH), 
 PROLACTINA (PRL)
 HORMONA FOLICULO ESTIMULANTE (FSH) y 
-HORMONA LUTEINIZANTE (LH).`,"hsl(264, 85%, 70%)",""],["Secreciones de La Neurohipófisis",`HORMONA ANTIDIURÉTICA (ADH) O VASOPRESINA 
+HORMONA LUTEINIZANTE (LH).`,"hsl(348, 85%, 70%)",""],["Secreciones de La Neurohipófisis",`HORMONA ANTIDIURÉTICA (ADH) O VASOPRESINA 
 y OXITOCINA (OT).
 La adenohipófisis contiene diferentes tipos celulares, cada uno especializado en la síntesis de cada una de las hormonas: celulas somatotropas, corticotropas, tirotropas, gonadotropas y lactotropas.
-En el caso de la neurohipofisis las células que secretan sus hormonas no están localizadas en ella sino en dos grandes núcleos hipotalamicos: núcleo supraoptico y núcleo paraventricular, y desde alli son transportadas hasta la neurohipofisis. `,"hsl(276, 85%, 70%)",""],["Tiroides","Es una glándula que se encuentra debajo del cartílago tiroides, tiene forma de mariposa y ambos lóbulos están unidos por una estructura llamada istmo","hsl(288, 85%, 70%)",""],["Secreciones de la tiroides",`TIROXINA (T4), 
+En el caso de la neurohipofisis las células que secretan sus hormonas no están localizadas en ella sino en dos grandes núcleos hipotalamicos: núcleo supraoptico y núcleo paraventricular, y desde alli son transportadas hasta la neurohipofisis. `,"hsl(0, 85%, 70%)",""],["Tiroides","Es una glándula que se encuentra debajo del cartílago tiroides, tiene forma de mariposa y ambos lóbulos están unidos por una estructura llamada istmo","hsl(12, 85%, 70%)",""],["Secreciones de la tiroides",`TIROXINA (T4), 
 TRIYODOTIRONINA (T3), que participan en el metabolismo general 
-y la CALCITONINA relacionada al metabolismo del calcio.`,"hsl(300, 85%, 70%)",""],["Funciones de la tiriodes",`Tiroxima: Control de energia, metabolismo.
+y la CALCITONINA relacionada al metabolismo del calcio.`,"hsl(24, 85%, 70%)",""],["Funciones de la tiriodes",`Tiroxima: Control de energia, metabolismo.
 
-Calcitonina: Disminuye nivel de calcio y fosforo en la sangre.`,"hsl(312, 85%, 70%)",""],["Paratiroides","Son dos pares de glándulas que se encuentran al lado de la tiroides y regula los niveles sanguíneos de calcio y fosforo y estimula la reabsorción de hueso","hsl(324, 85%, 70%)",""],["Secrecion de la paratirodes","la PARATHORMONA (PTH), reguladora junto a la calcitonina del metabolismo del calcio y del fósforo.","hsl(336, 85%, 70%)",""],["Páncreas",`Es un glándula que cumple función
+Calcitonina: Disminuye nivel de calcio y fosforo en la sangre.`,"hsl(36, 85%, 70%)",""],["Paratiroides","Son dos pares de glándulas que se encuentran al lado de la tiroides y regula los niveles sanguíneos de calcio y fosforo y estimula la reabsorción de hueso","hsl(48, 85%, 70%)",""],["Secrecion de la paratirodes","la PARATHORMONA (PTH), reguladora junto a la calcitonina del metabolismo del calcio y del fósforo.","hsl(60, 85%, 70%)",""],["Páncreas",`Es un glándula que cumple función
 EXOCRINA: Secreta enzimas hacia el duodeno en el proceso digestivo 
-ENDOCRINA: Libera insulina, glucagon y somastotatina sintetizadas por tres tipos celulares específicos, células beta, alfa y gama, respectivamente, que se encuentran formando cúmulos de células: los ISLOTES DE LANGERHANS.`,"hsl(348, 85%, 70%)",""],["Insulina",`Células beta
+ENDOCRINA: Libera insulina, glucagon y somastotatina sintetizadas por tres tipos celulares específicos, células beta, alfa y gama, respectivamente, que se encuentran formando cúmulos de células: los ISLOTES DE LANGERHANS.`,"hsl(72, 85%, 70%)",""],["Insulina",`Células beta
 Aumenta la permeabilidad de la membrana para facilitar el ingreso de glucosa, aminoácidos, nucleósidos y fosfato a la células.
 Aumenta el almacenamiento de ácidos grasos en el tejido adiposo.
 Disminuye los ácidos grasos en la sangre.
 Aumenta la actividad ribosomal.
 Aumenta la transcripción del ADN.
-Con la TSH promueve el crecimiento.`,"hsl(0, 85%, 70%)",""],["Glucagon",`Celulas alfa
+Con la TSH promueve el crecimiento.`,"hsl(84, 85%, 70%)",""],["Glucagon",`Celulas alfa
 Promueve la glucogenólisis.
 Aumenta la concentración de acidos grasos en la sangre.
 Aumenta el catabolismo nitrogenado. 
-`,"hsl(12, 85%, 70%)",""],[" Somatostatina",`Células delta
-Regula proporcionalmente  la respuesta de la insulina, el glucagón  de acuerdo a los requerimientos  de oferta  y disponibilidad de sustratos energéticos.`,"hsl(24, 85%, 70%)",""],["Glandulas Suprarrenales ",`En numero de dos se encuentran ubicadas sobre el polo superior de cada riñón. 
+`,"hsl(96, 85%, 70%)",""],[" Somatostatina",`Células delta
+Regula proporcionalmente  la respuesta de la insulina, el glucagón  de acuerdo a los requerimientos  de oferta  y disponibilidad de sustratos energéticos.`,"hsl(108, 85%, 70%)",""],["Glandulas Suprarrenales ",`En numero de dos se encuentran ubicadas sobre el polo superior de cada riñón. 
 Las sustancias secretadas estimulan la actividad del Corazón, aumentan la tensión arterial, y actúan sobre la dilatación y contracción de los vasos sanguíneos y  musculatura  
-`,"hsl(36, 85%, 70%)",""],["Glandulas Suprarrenales ",`Están constituidas por dos sectores distintos en el mismo órgano, la más externa es la CORTEZA y la parte central se denomina MEDULA. 
+`,"hsl(120, 85%, 70%)",""],["Glandulas Suprarrenales ",`Están constituidas por dos sectores distintos en el mismo órgano, la más externa es la CORTEZA y la parte central se denomina MEDULA. 
 La primera encargada de secretar principalmente ALDOSTERONA y CORTISOL. 
-La medula, relacionada con el Sistema Nervioso Simpático secreta dos hormonas: ADRENALINA y NORADRELINA.`,"hsl(48, 85%, 70%)",""],["Aldosterona ",`Regula iones Na+ y K+, agua
+La medula, relacionada con el Sistema Nervioso Simpático secreta dos hormonas: ADRENALINA y NORADRELINA.`,"hsl(132, 85%, 70%)",""],["Aldosterona ",`Regula iones Na+ y K+, agua
 Regula la presión sanguínea
-Equilibra fluidos en la sangre y células`,"hsl(60, 85%, 70%)",""],["Cortisol",`Moviliza nutrientes.
+Equilibra fluidos en la sangre y células`,"hsl(144, 85%, 70%)",""],["Cortisol",`Moviliza nutrientes.
 Estimula el hígado
-Controla la cantidad de agua`,"hsl(72, 85%, 70%)",""],["Epinefrina o adrenalina",`Aumenta frecuencia cardíaca
+Controla la cantidad de agua`,"hsl(156, 85%, 70%)",""],["Epinefrina o adrenalina",`Aumenta frecuencia cardíaca
 Facilita el flujo de sangre en musculo y cerebro.
 Relaja el musculo liso
 Convierte glucógeno en glucosa.
-Dilata la pupila`,"hsl(84, 85%, 70%)",""],["Noradrenalina o Norepirefrina",`Es una catecolamina con funciones fisiológicas y homeostáticas que puede actuar como hormona y como neurotrasmisor. 
-Las áreas del cuerpo que la producen son descritas como noradrenérgicas`,"hsl(96, 85%, 70%)",""],["Dopamina",`Es un neurotrasmisor y neurohormona
-Promueve el incremento de la frecuencia cardiaca y la presión arterial `,"hsl(108, 85%, 70%)",""],["Gónadas ","Testículos y Ovarios","hsl(120, 85%, 70%)",""],["Los ovarios","Son los órganos de reproducción femenina, están al lado de cada útero, encargados de la producción de dos hormonas: ESTROGENO y PROGESTERONA","hsl(132, 85%, 70%)",""],["Los testículos","Están ubicados en el escroto y son el órgano sexual masculino. Su tejido germinal contiene a las células de Leydig, encargadas de sintetizar la principal hormona masculina: TESTOSTERONA.","hsl(144, 85%, 70%)",""],["Hormonas sexuales",`Se sintetizan del colesterol
+Dilata la pupila`,"hsl(168, 85%, 70%)",""],["Noradrenalina o Norepirefrina",`Es una catecolamina con funciones fisiológicas y homeostáticas que puede actuar como hormona y como neurotrasmisor. 
+Las áreas del cuerpo que la producen son descritas como noradrenérgicas`,"hsl(180, 85%, 70%)",""],["Dopamina",`Es un neurotrasmisor y neurohormona
+Promueve el incremento de la frecuencia cardiaca y la presión arterial `,"hsl(192, 85%, 70%)",""],["Gónadas ","Testículos y Ovarios","hsl(204, 85%, 70%)",""],["Los ovarios","Son los órganos de reproducción femenina, están al lado de cada útero, encargados de la producción de dos hormonas: ESTROGENO y PROGESTERONA","hsl(216, 85%, 70%)",""],["Los testículos","Están ubicados en el escroto y son el órgano sexual masculino. Su tejido germinal contiene a las células de Leydig, encargadas de sintetizar la principal hormona masculina: TESTOSTERONA.","hsl(228, 85%, 70%)",""],["Hormonas sexuales",`Se sintetizan del colesterol
 Se reducen con el envejecimiento
 Ovario: estrógenos y progesterona (recepción del esperma e implantación del ovulo)
-Testiculos: andrógenos (desarrollo del aparato masculino)`,"hsl(156, 85%, 70%)",""],["Estrógeno",`Este grupo de hormonas es responsable del desarrollo de las características sexuales femeninas. 
+Testiculos: andrógenos (desarrollo del aparato masculino)`,"hsl(240, 85%, 70%)",""],["Estrógeno",`Este grupo de hormonas es responsable del desarrollo de las características sexuales femeninas. 
 
-Se forma normalmente en los ovarios, pero durante el embarazo también lo produce la placenta, para ayudar a sostener un embarazo saludable. `,"hsl(168, 85%, 70%)",""],["Progesterona",`La progesterona es producida por los ovarios y la placenta durante el embarazo.
+Se forma normalmente en los ovarios, pero durante el embarazo también lo produce la placenta, para ayudar a sostener un embarazo saludable. `,"hsl(251.99999999999997, 85%, 70%)",""],["Progesterona",`La progesterona es producida por los ovarios y la placenta durante el embarazo.
 
-  Esta hormona estimula el engrosamiento del recubrimiento del útero preparándolo para la implantación de un óvulo fecundado. `,"hsl(180, 85%, 70%)",""],["Placenta",`Constituye durante el embarazo una importante fuente de hormonas esenciales para el desarrollo normal del embarazo. Ellas son: GONADOTROFINA CORIONICA HUMANA (GCH), SOMATOTROFINA
-CORIONICA HUMANA (SCH) y en menor medida estrógenos y progesterona.`,"hsl(192, 85%, 70%)",""],["La hormona gonadotropina coriónica humana GCH (su sigla en inglés es hCG)",`
+  Esta hormona estimula el engrosamiento del recubrimiento del útero preparándolo para la implantación de un óvulo fecundado. `,"hsl(264, 85%, 70%)",""],["Placenta",`Constituye durante el embarazo una importante fuente de hormonas esenciales para el desarrollo normal del embarazo. Ellas son: GONADOTROFINA CORIONICA HUMANA (GCH), SOMATOTROFINA
+CORIONICA HUMANA (SCH) y en menor medida estrógenos y progesterona.`,"hsl(276, 85%, 70%)",""],["La hormona gonadotropina coriónica humana GCH (su sigla en inglés es hCG)",`
 Esta hormona sólo se produce durante el embarazo, principalmente por la placenta. 
 
 Los niveles de la hormona gonadotropina coriónica humana que se encuentran en el plasma y la orina materna aumentan en forma drástica durante el primer trimestre y pueden contribuir a provocar las náuseas y vómitos que suelen estar asociados con el embarazo. 
-`,"hsl(204, 85%, 70%)",""],["Timo",`Es una glándula que se ubica por detrás del esternón, entre los pulmones y sobre el corazón.
+`,"hsl(288, 85%, 70%)",""],["Timo",`Es una glándula que se ubica por detrás del esternón, entre los pulmones y sobre el corazón.
 
-El tamaño de este órgano aumenta hasta la pubertad y luego sufre involución y substitución por grasa y tejido conectivo.`,"hsl(216, 85%, 70%)",""],["Secreciones del Timo","Secreta 4 hormonas (timosina, el factor humoral timico, factor timico y timopoietina) que fomentan la maduración de los linfocitos T.","hsl(228, 85%, 70%)",""],["Efectos de las hormonas",`Estimulante: promueve actividad en un tejido. Ej.: prolactina 
+El tamaño de este órgano aumenta hasta la pubertad y luego sufre involución y substitución por grasa y tejido conectivo.`,"hsl(300, 85%, 70%)",""],["Secreciones del Timo","Secreta 4 hormonas (timosina, el factor humoral timico, factor timico y timopoietina) que fomentan la maduración de los linfocitos T.","hsl(312, 85%, 70%)",""],["Efectos de las hormonas",`Estimulante: promueve actividad en un tejido. Ej.: prolactina 
 
 Inhibitorio: disminuye actividad en un tejido. Ej.: somatostatina 
 
@@ -865,27 +866,27 @@ Antagonista: cuando un par de hormonas tiene efectos opuestos entre sí. Ej.: in
 
 Sinergista: cuando dos hormonas en conjunto tienen un efecto más potente que cuando se encuentran separadas. Ej.: hGH y T3/T4 
 
-Trópica: esta es una hormona que altera el metabolismo de otro tejido endocrino.  Ej.: gonadotropina sirven de mensajeros químicos `,"hsl(240, 85%, 70%)",""],["Clasificacion de las hormonas",`Proteicas:  las cuales están compuestas por cadenas de aminoácidos y derivan de la hipófisis, paratiroides y páncreas. Por su composición bioquímica, sus receptores se encuentran en la membrana donde comienza a producirse una  serie de reacciones que dan lugar a unos productos bioquímicos que actúan como segundo mensajero.
+Trópica: esta es una hormona que altera el metabolismo de otro tejido endocrino.  Ej.: gonadotropina sirven de mensajeros químicos `,"hsl(324, 85%, 70%)",""],["Efecto Estimulante de las hormonas","Promueve actividad en un tejido. Ej.: prolactina ","hsl(336, 85%, 70%)",""],["Efecto Inhibitorio de las hormonas","Disminuye actividad en un tejido. Ej.: somatostatina ","hsl(348, 85%, 70%)",""],["Efecto Antagonista de las hormonas","Cuando un par de hormonas tiene efectos opuestos entre sí. Ej.: insulina y glucagón ","hsl(0, 85%, 70%)",""],["Efecto Sinergista de las hormonas","Cuando dos hormonas en conjunto tienen un efecto más potente que cuando se encuentran separadas. Ej.: hGH y T3/T4 ","hsl(12, 85%, 70%)",""],["Efecto Trópico de las hormonas","Esta es una hormona que altera el metabolismo de otro tejido endocrino.  Ej.: gonadotropina sirven de mensajeros químicos ","hsl(24, 85%, 70%)",""],["Clasificacion de las hormonas",`Proteicas
 
-Esteroideas: son  derivadas del colesterol y por ende, pueden atravesar la  célula y unirse con su receptor que se encuentra en el citoplasma de la célula diana. Este tipo de hormona es secretada por la corteza suprarrenal y las gónadas. 
+Esteroideas
 
-Aminas: las cuales son secretadas por la glándula tiroides y de la médula suprarrenal, y su receptor se encuentra en el núcleo de la célula.`,"hsl(251.99999999999997, 85%, 70%)",""],["Metabolismo hormonal",` La liberación de las hormonas depende de los niveles en sangre de otras hormonas
+Aminas`,"hsl(36, 85%, 70%)",""],["Hormonas Proteicas","Están compuestas por cadenas de aminoácidos y derivan de la hipófisis, paratiroides y páncreas. Por su composición bioquímica, sus receptores se encuentran en la membrana donde comienza a producirse una  serie de reacciones que dan lugar a unos productos bioquímicos que actúan como segundo mensajero.","hsl(48, 85%, 70%)",""],["Hormonas Esteroideas","Son  derivadas del colesterol y por ende, pueden atravesar la  célula y unirse con su receptor que se encuentra en el citoplasma de la célula diana. Este tipo de hormona es secretada por la corteza suprarrenal y las gónadas. ","hsl(60, 85%, 70%)",""],["Hormonas Aminas","Son secretadas por la glándula tiroides y de la médula suprarrenal, y su receptor se encuentra en el núcleo de la célula.","hsl(72, 85%, 70%)",""],["Metabolismo hormonal",` La liberación de las hormonas depende de los niveles en sangre de otras hormonas
 
  La producción de las hormonas de la hipófisis anterior se inhibe cuando la glándula en particular libera sustancia que circule en la sangre
 
  Los niveles de hormonas circulantes se mantienen en un equilibrio constante 
-`,"hsl(264, 85%, 70%)",""],["Trastornos del hipotalamo",`Sn muy difíciles de precisar porque su número es muy grande.
+`,"hsl(84, 85%, 70%)",""],["Trastornos del hipotalamo",`Sn muy difíciles de precisar porque su número es muy grande.
 
 Las causas más comunes son las lesiones en la cabeza que afectan el hipotálamo. Las cirugías también pueden afectar el hipotálamo, así como la radiación y los tumores. En algunos casos, también puede haber un vínculo genético.
 
-`,"hsl(276, 85%, 70%)",""],["Como favorecer la salud del hipotalamo",`El hipotálamo controla el apetito y, de hecho, se ve afectado por los alimentos que se consumen. Los estudios han demostrado que las dietas altas en grasas saturadas pueden alterar la función del hipotálamo que regula el hambre y el gasto de energía.
+`,"hsl(96, 85%, 70%)",""],["Como favorecer la salud del hipotalamo",`El hipotálamo controla el apetito y, de hecho, se ve afectado por los alimentos que se consumen. Los estudios han demostrado que las dietas altas en grasas saturadas pueden alterar la función del hipotálamo que regula el hambre y el gasto de energía.
 
-También se ha encontrado que las dietas ricas en grasas saturadas tienen un efecto inflamatorio en el cuerpo. Esto puede afectar el sistema inmunitario, aumentando las posibilidades de que se vuelva contra las células sanas del cuerpo, aumentando la inflamación en el intestino y alterando el funcionamiento natural del cuerpo.`,"hsl(288, 85%, 70%)",""],["Sistema inmune","En la lucha por la existencia, los organismos están expuestos a una legión de invasores que están expuestos a una legión de invasores que son los microorganismos como virus, bacterias, protozoos, hongos o las moléculas producidas por ellos. Para impedir los efectos tóxicos de ellos, los animales han desarrollado a lo largo de la evolución una serie de mecanismos de defensas, y de ellos este es el más sofisticado.","hsl(300, 85%, 70%)",""],[" linfocitos B",`Son células mononucleares que maduran en la médula ósea tienen la capacidad de producir sustancias específicas (anticuerpos) frente a los agentes agresores. 
+También se ha encontrado que las dietas ricas en grasas saturadas tienen un efecto inflamatorio en el cuerpo. Esto puede afectar el sistema inmunitario, aumentando las posibilidades de que se vuelva contra las células sanas del cuerpo, aumentando la inflamación en el intestino y alterando el funcionamiento natural del cuerpo.`,"hsl(108, 85%, 70%)",""],["Sistema inmune","En la lucha por la existencia, los organismos están expuestos a una legión de invasores que están expuestos a una legión de invasores que son los microorganismos como virus, bacterias, protozoos, hongos o las moléculas producidas por ellos. Para impedir los efectos tóxicos de ellos, los animales han desarrollado a lo largo de la evolución una serie de mecanismos de defensas, y de ellos este es el más sofisticado.","hsl(120, 85%, 70%)",""],[" linfocitos B",`Son células mononucleares que maduran en la médula ósea tienen la capacidad de producir sustancias específicas (anticuerpos) frente a los agentes agresores. 
 
 Se renuevan periódicamente, pero siempre permanecen células de memoria que permiten repetir una respuesta inmune al producirse un nuevo contacto con el antígeno específico.
-`,"hsl(312, 85%, 70%)",""],["Los linfocitos T","También corresponden a células mononucleares, pero en este caso, maduran en el Timo. Atacan directamente a los antígenos, facilitando su destrucción. ","hsl(324, 85%, 70%)",""],["Ttipos de linfocitos T","Los llamados linfocitos T helper (CD4),(CD4), participan en ayudar y ampliar la respuesta defensiva; los llamados linfocitos T citotóxicos (CD8),(CD8), que tienen actividad destructiva propia sobre los agentes agresores, células T reguladoras, Células Natural Killer (CD16).","hsl(336, 85%, 70%)",""],["Macrofagos","Son celulas que se desplazan con movimiento ameboide entre los tejidos fagocitando a los microorganismos, degradandolos y exponiendo moleculas del microorganismo o fragmentos de estas en su superficie, unidas a unas moleculas glicoproteicas.","hsl(348, 85%, 70%)",""],["Los natural killers","Son celulas citotoxicas que producen perforina. Una proteina que destruye sobre todo paracitos y celulas al insertarse en las membranas de estas y producir agujeros en ellas por las que se salen el contenido citoplasmatico.","hsl(0, 85%, 70%)",""],["Organos linfoides",`Primarios: Origen, desarrollo y maduracion de las celulas del sistema inmune. Medula osea y timo.
+`,"hsl(132, 85%, 70%)",""],["Los linfocitos T","También corresponden a células mononucleares, pero en este caso, maduran en el Timo. Atacan directamente a los antígenos, facilitando su destrucción. ","hsl(144, 85%, 70%)",""],["Ttipos de linfocitos T","Los llamados linfocitos T helper (CD4),(CD4), participan en ayudar y ampliar la respuesta defensiva; los llamados linfocitos T citotóxicos (CD8),(CD8), que tienen actividad destructiva propia sobre los agentes agresores, células T reguladoras, Células Natural Killer (CD16).","hsl(156, 85%, 70%)",""],["Macrofagos","Son celulas que se desplazan con movimiento ameboide entre los tejidos fagocitando a los microorganismos, degradandolos y exponiendo moleculas del microorganismo o fragmentos de estas en su superficie, unidas a unas moleculas glicoproteicas.","hsl(168, 85%, 70%)",""],["Los natural killers","Son celulas citotoxicas que producen perforina. Una proteina que destruye sobre todo paracitos y celulas al insertarse en las membranas de estas y producir agujeros en ellas por las que se salen el contenido citoplasmatico.","hsl(180, 85%, 70%)",""],["Organos linfoides",`Primarios: Origen, desarrollo y maduracion de las celulas del sistema inmune. Medula osea y timo.
 
-Secundarios: En ellas las celulas inmunes maduras son activadas por los antigenos. Adenoides, amigdala y placas de Peyer. Ganglios linfaticos y bazo.`,"hsl(12, 85%, 70%)",""]],Hb=[["Caracteristicas principales de los test psicometricos",`Medida objetiva.
+Secundarios: En ellas las celulas inmunes maduras son activadas por los antigenos. Adenoides, amigdala y placas de Peyer. Ganglios linfaticos y bazo.`,"hsl(192, 85%, 70%)",""]],Hb=[["Caracteristicas principales de los test psicometricos",`Medida objetiva.
 A partir de una muestra de conducta.
 Técnica sistemática.
 Comparar conductas.
